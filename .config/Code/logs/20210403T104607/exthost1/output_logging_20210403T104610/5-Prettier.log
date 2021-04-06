@@ -1,0 +1,498 @@
+["INFO" - 10:46:10] Extension Name: esbenp.prettier-vscode.
+["INFO" - 10:46:10] Extension Version: 6.3.1.
+["INFO" - 12:01:50] Formatting /home/marcos/core/Entrega5_BBDD/cmds_quiz.js
+["INFO" - 12:01:50] Using ignore file (if present) at /home/marcos/core/Entrega5_BBDD/.prettierignore
+["INFO" - 12:01:51] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 12:01:51] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 12:01:51] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/marcos/core/Entrega5_BBDD/cmds_quiz.js",
+  "parser": "babel"
+}
+["INFO" - 12:01:51] Formatting completed in 176.253847ms.
+["INFO" - 12:06:00] Formatting /home/marcos/core/Entrega5_BBDD/cmds_quiz.js
+["INFO" - 12:06:00] Using ignore file (if present) at /home/marcos/core/Entrega5_BBDD/.prettierignore
+["INFO" - 12:06:00] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 12:06:00] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 12:06:00] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/marcos/core/Entrega5_BBDD/cmds_quiz.js",
+  "parser": "babel"
+}
+["INFO" - 12:06:00] Formatting completed in 186.822735ms.
+["INFO" - 12:23:34] Formatting /home/marcos/core/Entrega5_BBDD/model.js
+["INFO" - 12:23:34] Using ignore file (if present) at /home/marcos/core/Entrega5_BBDD/.prettierignore
+["INFO" - 12:23:34] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 12:23:35] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 12:23:35] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/marcos/core/Entrega5_BBDD/model.js",
+  "parser": "babel"
+}
+["INFO" - 12:23:35] Formatting completed in 148.487255ms.
+["INFO" - 12:23:53] Formatting /home/marcos/core/Entrega5_BBDD/model.js
+["INFO" - 12:23:53] Using ignore file (if present) at /home/marcos/core/Entrega5_BBDD/.prettierignore
+["INFO" - 12:23:53] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 12:23:53] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 12:23:53] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/marcos/core/Entrega5_BBDD/model.js",
+  "parser": "babel"
+}
+["INFO" - 12:23:53] Formatting completed in 115.562513ms.
+["INFO" - 12:24:03] Formatting /home/marcos/core/Entrega5_BBDD/model.js
+["INFO" - 12:24:03] Using ignore file (if present) at /home/marcos/core/Entrega5_BBDD/.prettierignore
+["INFO" - 12:24:03] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 12:24:03] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 12:24:03] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/marcos/core/Entrega5_BBDD/model.js",
+  "parser": "babel"
+}
+["INFO" - 12:24:03] Formatting completed in 130.807547ms.
+["INFO" - 12:24:07] Formatting /home/marcos/core/Entrega5_BBDD/model.js
+["INFO" - 12:24:07] Using ignore file (if present) at /home/marcos/core/Entrega5_BBDD/.prettierignore
+["INFO" - 12:24:07] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 12:24:07] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 12:24:07] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/marcos/core/Entrega5_BBDD/model.js",
+  "parser": "babel"
+}
+["INFO" - 12:24:07] Formatting completed in 82.00402ms.
+["INFO" - 13:14:42] Formatting /home/marcos/core/Entrega5_BBDD/migrations/20210403103543-CreateScoresTable.js
+["INFO" - 13:14:42] Using ignore file (if present) at /home/marcos/core/Entrega5_BBDD/.prettierignore
+["INFO" - 13:14:43] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 13:14:43] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 13:14:43] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/marcos/core/Entrega5_BBDD/migrations/20210403103543-CreateScoresTable.js",
+  "parser": "babel"
+}
+["INFO" - 13:14:43] Formatting completed in 70.206539ms.
+["INFO" - 13:17:20] Formatting /home/marcos/core/Entrega5_BBDD/migrations/20210403103543-CreateScoresTable.js
+["INFO" - 13:17:20] Using ignore file (if present) at /home/marcos/core/Entrega5_BBDD/.prettierignore
+["INFO" - 13:17:20] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 13:17:20] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 13:17:20] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/marcos/core/Entrega5_BBDD/migrations/20210403103543-CreateScoresTable.js",
+  "parser": "babel"
+}
+["INFO" - 13:17:20] Formatting completed in 47.374553ms.
+["INFO" - 13:20:24] Formatting /home/marcos/core/Entrega5_BBDD/migrations/20210403103543-CreateScoresTable.js
+["INFO" - 13:20:24] Using ignore file (if present) at /home/marcos/core/Entrega5_BBDD/.prettierignore
+["INFO" - 13:20:24] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 13:20:24] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 13:20:24] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/marcos/core/Entrega5_BBDD/migrations/20210403103543-CreateScoresTable.js",
+  "parser": "babel"
+}
+["INFO" - 13:20:24] Formatting completed in 76.712171ms.
+["INFO" - 13:21:20] Formatting /home/marcos/core/Entrega5_BBDD/migrations/20210403103543-CreateScoresTable.js
+["INFO" - 13:21:20] Using ignore file (if present) at /home/marcos/core/Entrega5_BBDD/.prettierignore
+["INFO" - 13:21:20] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 13:21:20] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 13:21:20] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/marcos/core/Entrega5_BBDD/migrations/20210403103543-CreateScoresTable.js",
+  "parser": "babel"
+}
+["INFO" - 13:21:20] Formatting completed in 31.056676ms.
+["INFO" - 13:30:32] Formatting /home/marcos/core/Entrega5_BBDD/model.js
+["INFO" - 13:30:32] Using ignore file (if present) at /home/marcos/core/Entrega5_BBDD/.prettierignore
+["INFO" - 13:30:32] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 13:30:32] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 13:30:32] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/marcos/core/Entrega5_BBDD/model.js",
+  "parser": "babel"
+}
+["INFO" - 13:30:32] Formatting completed in 72.054258ms.
+["INFO" - 13:32:36] Formatting /home/marcos/core/Entrega5_BBDD/cmds_quiz.js
+["INFO" - 13:32:36] Using ignore file (if present) at /home/marcos/core/Entrega5_BBDD/.prettierignore
+["INFO" - 13:32:36] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 13:32:36] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 13:32:36] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/marcos/core/Entrega5_BBDD/cmds_quiz.js",
+  "parser": "babel"
+}
+["INFO" - 13:32:36] Formatting completed in 77.12914ms.
+["INFO" - 13:34:57] Formatting /home/marcos/core/Entrega5_BBDD/cmds_quiz.js
+["INFO" - 13:34:57] Using ignore file (if present) at /home/marcos/core/Entrega5_BBDD/.prettierignore
+["INFO" - 13:34:57] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 13:34:57] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 13:34:57] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/marcos/core/Entrega5_BBDD/cmds_quiz.js",
+  "parser": "babel"
+}
+["INFO" - 13:34:57] Formatting completed in 105.134349ms.
+["INFO" - 13:38:35] Formatting /home/marcos/core/Entrega5_BBDD/cmds_quiz.js
+["INFO" - 13:38:35] Using ignore file (if present) at /home/marcos/core/Entrega5_BBDD/.prettierignore
+["INFO" - 13:38:35] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 13:38:35] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 13:38:35] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/marcos/core/Entrega5_BBDD/cmds_quiz.js",
+  "parser": "babel"
+}
+["INFO" - 13:38:35] Formatting completed in 105.490842ms.
+["INFO" - 13:46:39] Formatting /home/marcos/core/Entrega5_BBDD/cmds_score.js
+["INFO" - 13:46:39] Using ignore file (if present) at /home/marcos/core/Entrega5_BBDD/.prettierignore
+["INFO" - 13:46:39] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 13:46:39] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 13:46:39] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/marcos/core/Entrega5_BBDD/cmds_score.js",
+  "parser": "babel"
+}
+["INFO" - 13:46:39] Formatting completed in 18.512839ms.
+["INFO" - 13:52:14] Formatting /home/marcos/core/Entrega5_BBDD/main.js
+["INFO" - 13:52:14] Using ignore file (if present) at /home/marcos/core/Entrega5_BBDD/.prettierignore
+["INFO" - 13:52:14] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 13:52:14] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 13:52:14] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/marcos/core/Entrega5_BBDD/main.js",
+  "parser": "babel"
+}
+["INFO" - 13:52:14] Formatting completed in 58.220921ms.

@@ -1,0 +1,6 @@
+2021/04/02-18:13:37.479 c243d Reusing MANIFEST /home/marcos/.config/Microsoft/Microsoft Teams/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/02-18:13:37.479 c243d Recovering log #47
+2021/04/02-18:13:37.491 c243d Reusing old log /home/marcos/.config/Microsoft/Microsoft Teams/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/000047.log 
+2021/04/02-18:16:14.809 c6927 Level-0 table #55: started
+2021/04/02-18:16:14.823 c6927 Level-0 table #55: 1053739 bytes OK
+2021/04/02-18:16:14.836 c6927 Delete type=0 #47

@@ -1,0 +1,4 @@
+configuration {
+  font: "Terminus 11";
+  theme: "~/.cache/wal/colors-rofi-dark";
+}

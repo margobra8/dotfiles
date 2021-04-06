@@ -1,0 +1,14 @@
+[2021-04-03 10:46:48.914] [sharedprocess] [info] Starting to clean up unused language packs.
+[2021-04-03 11:27:27.295] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2021-04-03 11:31:23.346] [sharedprocess] [info] Installing extension: vscodevim.vim
+[2021-04-03 11:31:24.155] [sharedprocess] [info] Downloaded extension: vscodevim.vim undefined
+[2021-04-03 11:31:24.663] [sharedprocess] [info] Extracted extension to /home/marcos/.vscode/extensions/.650ea9e0-f934-47c3-8ac7-19be58be2aea: vscodevim.vim
+[2021-04-03 11:31:24.713] [sharedprocess] [info] Renamed to /home/marcos/.vscode/extensions/vscodevim.vim-1.19.3
+[2021-04-03 11:31:24.719] [sharedprocess] [info] Installation completed. vscodevim.vim
+[2021-04-03 11:31:24.731] [sharedprocess] [info] Extensions installed successfully: vscodevim.vim
+[2021-04-03 18:58:25.080] [sharedprocess] [info] Installing extension: dlasagno.wal-theme
+[2021-04-03 18:58:25.624] [sharedprocess] [info] Downloaded extension: dlasagno.wal-theme undefined
+[2021-04-03 18:58:25.669] [sharedprocess] [info] Extracted extension to /home/marcos/.vscode/extensions/.d8f8135d-f251-4831-a6a0-cb266605fa75: dlasagno.wal-theme
+[2021-04-03 18:58:25.675] [sharedprocess] [info] Renamed to /home/marcos/.vscode/extensions/dlasagno.wal-theme-1.0.4
+[2021-04-03 18:58:25.676] [sharedprocess] [info] Installation completed. dlasagno.wal-theme
+[2021-04-03 18:58:25.682] [sharedprocess] [info] Extensions installed successfully: dlasagno.wal-theme

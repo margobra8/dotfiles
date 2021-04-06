@@ -1,0 +1,8 @@
+#!/bin/sh
+
+case "$1" in
+	m) pactl set-sink-mute 0 toggle ;;
+	d) pactl set-sink-volume 0 -5% ;;
+	i) pactl set-sink-volume 0 +5% ;;
+	*) echo $"Usage: $0 {m|d|i} (mute|dec|inc}" ; exit 1 ;;
+esac

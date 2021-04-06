@@ -1,0 +1,33 @@
+2021/03/29-14:37:44.912 160cba Reusing MANIFEST /home/marcos/.config/Microsoft/Microsoft Teams/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/29-14:37:44.912 160cba Recovering log #35
+2021/03/29-14:37:44.916 160cba Reusing old log /home/marcos/.config/Microsoft/Microsoft Teams/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/000035.log 
+2021/03/29-14:37:51.906 1661bd Level-0 table #42: started
+2021/03/29-14:37:51.951 1661bd Level-0 table #42: 1820084 bytes OK
+2021/03/29-14:37:51.962 1661bd Delete type=0 #35
+2021/03/29-14:37:52.080 1661bd Compacting 1@1 + 4@2 files
+2021/03/29-14:37:52.177 1661bd Generated table #43@1: 7050 keys, 2152785 bytes
+2021/03/29-14:37:52.232 1661bd Generated table #44@1: 11276 keys, 2175641 bytes
+2021/03/29-14:37:52.260 1661bd Generated table #45@1: 2405 keys, 2126577 bytes
+2021/03/29-14:37:52.272 1661bd Generated table #46@1: 3407 keys, 486912 bytes
+2021/03/29-14:37:52.272 1661bd Compacted 1@1 + 4@2 files => 6941915 bytes
+2021/03/29-14:37:52.286 1661bd compacted to: files[ 0 0 4 0 0 0 0 ]
+2021/03/29-14:37:52.286 1661bd Delete type=2 #38
+2021/03/29-14:37:52.286 1661bd Delete type=2 #39
+2021/03/29-14:37:52.286 1661bd Delete type=2 #37
+2021/03/29-14:37:52.286 1661bd Delete type=2 #24
+2021/03/29-14:37:52.286 1661bd Delete type=2 #42
+2021/03/29-14:37:55.034 1661bd Level-0 table #48: started
+2021/03/29-14:37:55.049 1661bd Level-0 table #48: 1027781 bytes OK
+2021/03/29-14:37:55.060 1661bd Delete type=0 #41
+2021/03/29-14:37:55.062 1661bd Compacting 1@1 + 4@2 files
+2021/03/29-14:37:55.098 1661bd Generated table #49@1: 8449 keys, 2157360 bytes
+2021/03/29-14:37:55.154 1661bd Generated table #50@1: 11310 keys, 2212917 bytes
+2021/03/29-14:37:55.185 1661bd Generated table #51@1: 568 keys, 2130047 bytes
+2021/03/29-14:37:55.202 1661bd Generated table #52@1: 5681 keys, 828041 bytes
+2021/03/29-14:37:55.202 1661bd Compacted 1@1 + 4@2 files => 7328365 bytes
+2021/03/29-14:37:55.209 1661bd compacted to: files[ 0 0 4 0 0 0 0 ]
+2021/03/29-14:37:55.209 1661bd Delete type=2 #44
+2021/03/29-14:37:55.209 1661bd Delete type=2 #43
+2021/03/29-14:37:55.209 1661bd Delete type=2 #45
+2021/03/29-14:37:55.209 1661bd Delete type=2 #46
+2021/03/29-14:37:55.209 1661bd Delete type=2 #48

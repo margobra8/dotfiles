@@ -1,0 +1,29 @@
+[Desktop Entry]
+FullScreen=false
+
+[MainWindow]
+DP3 eDP1 Height 1920x1080=986
+DP3 eDP1 Width 1920x1080=900
+DP3 eDP1 Window-Maximized 1920x1080=true
+DP3 eDP1 XPosition 1920x1080=0
+DP3 eDP1 YPosition 1920x1080=20
+Height 1080=1052
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAPmAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAIgBhAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAA==
+ToolBarsMovable=Disabled
+Width 1920=900
+eDP1 Height 1920x1080=986
+eDP1 Width 1920x1080=900
+eDP1 XPosition 1920x1080=2
+eDP1 YPosition 1920x1080=63
+
+[Recent Files]
+File1[$e]=$HOME/walbox/README.md
+File2[$e]=$HOME/Downloads/C2-converted.pdf
+File3[$e]=$HOME/Downloads/Entregable 1.pdf
+File4[$e]=$HOME/.cache/zsh/history
+File5[$e]=$HOME/Downloads/CORE_09_MOD_9_BBDD_publicado_v6.pdf
+Name1[$e]=README.md
+Name2[$e]=C2-converted.pdf
+Name3[$e]=Entregable 1.pdf
+Name4[$e]=history
+Name5[$e]=CORE_09_MOD_9_BBDD_publicado_v6.pdf

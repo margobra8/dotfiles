@@ -1,0 +1,24 @@
+2021/04/06-14:24:01.672 3204e Reusing MANIFEST /home/marcos/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/06-14:24:01.673 3204e Recovering log #23
+2021/04/06-14:24:01.700 3204e Reusing old log /home/marcos/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000023.log 
+2021/04/06-14:34:20.800 3c3ce Level-0 table #28: started
+2021/04/06-14:34:20.860 3c3ce Level-0 table #28: 1311800 bytes OK
+2021/04/06-14:34:20.871 3c3ce Delete type=0 #23
+2021/04/06-14:34:21.657 3c3ce Compacting 1@1 + 1@2 files
+2021/04/06-14:34:21.710 3c3ce Generated table #29@1: 26090 keys, 1710050 bytes
+2021/04/06-14:34:21.710 3c3ce Compacted 1@1 + 1@2 files => 1710050 bytes
+2021/04/06-14:34:21.717 3c3ce compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/04/06-14:34:21.717 3c3ce Delete type=2 #28
+2021/04/06-14:34:21.717 3c3ce Delete type=2 #25
+2021/04/06-16:19:58.800 3dd03 Level-0 table #31: started
+2021/04/06-16:19:58.812 3dd03 Level-0 table #31: 608676 bytes OK
+2021/04/06-16:19:58.819 3dd03 Delete type=0 #27
+2021/04/06-16:19:58.820 3dd03 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/04/06-16:19:58.820 3dd03 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x05\x02\x1f\x03\x00\xc0\x91\x1es\x8awB\x00\x01,\x00W\x00c\x00Y\x00f\x00q\x007\x00o\x00F\x00t\x00M\x00U\x00l\x00e\x00r\x009\x005\x00X\x00w\x00E\x00M\x00U\x00x\x00P\x00p\x00f\x00L\x009\x00E\x007\x00n\x00k\x00R\x00O\x00T\x00l\x00I\x00m\x00o\x005\x00D\x008\x00E\x00A\x00=' @ 293884 : 1
+2021/04/06-16:19:58.820 3dd03 Compacting 1@1 + 1@2 files
+2021/04/06-16:19:58.853 3dd03 Generated table #32@1: 21178 keys, 1542247 bytes
+2021/04/06-16:19:58.853 3dd03 Compacted 1@1 + 1@2 files => 1542247 bytes
+2021/04/06-16:19:58.861 3dd03 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/04/06-16:19:58.861 3dd03 Delete type=2 #29
+2021/04/06-16:19:58.861 3dd03 Delete type=2 #31
+2021/04/06-16:19:58.861 3dd03 Manual compaction at level-1 from '\x00\x05\x02\x1f\x03\x00\xc0\x91\x1es\x8awB\x00\x01,\x00W\x00c\x00Y\x00f\x00q\x007\x00o\x00F\x00t\x00M\x00U\x00l\x00e\x00r\x009\x005\x00X\x00w\x00E\x00M\x00U\x00x\x00P\x00p\x00f\x00L\x009\x00E\x007\x00n\x00k\x00R\x00O\x00T\x00l\x00I\x00m\x00o\x005\x00D\x008\x00E\x00A\x00=' @ 293884 : 1 .. (end); will stop at (end)

@@ -1,0 +1,15 @@
+2021/04/02-15:22:04.871 8895 Reusing MANIFEST /home/marcos/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.barbarianmeetscoding.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/02-15:22:04.871 8895 Recovering log #4
+2021/04/02-15:22:04.871 8895 Reusing old log /home/marcos/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.barbarianmeetscoding.com_0.indexeddb.leveldb/000004.log 
+2021/04/02-15:23:16.761 888f Level-0 table #8: started
+2021/04/02-15:23:16.798 888f Level-0 table #8: 4042 bytes OK
+2021/04/02-15:23:16.805 888f Delete type=0 #4
+2021/04/02-15:23:16.806 888f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/04/02-15:23:16.806 888f Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01E\x00r\x00e\x00s\x00o\x00u\x00r\x00c\x00e\x00s\x00:\x00/\x00b\x00o\x00o\x00s\x00t\x00-\x00y\x00o\x00u\x00r\x00-\x00c\x00o\x00d\x00i\x00n\x00g\x00-\x00f\x00u\x00-\x00w\x00i\x00t\x00h\x00-\x00v\x00s\x00c\x00o\x00d\x00e\x00-\x00a\x00n\x00d\x00-\x00v\x00i\x00m\x00/\x00t\x00a\x00b\x00l\x00e\x00-\x00o\x00f\x00-\x00c\x00o\x00n\x00t\x00e\x00n\x00t\x00s' @ 109 : 1
+2021/04/02-15:23:16.806 888f Compacting 1@1 + 1@2 files
+2021/04/02-15:23:16.812 888f Generated table #9@1: 31 keys, 1575 bytes
+2021/04/02-15:23:16.812 888f Compacted 1@1 + 1@2 files => 1575 bytes
+2021/04/02-15:23:16.819 888f compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/04/02-15:23:16.820 888f Delete type=2 #8
+2021/04/02-15:23:16.820 888f Delete type=2 #5
+2021/04/02-15:23:16.820 888f Manual compaction at level-1 from '\x00\x01\x01\x02\x01E\x00r\x00e\x00s\x00o\x00u\x00r\x00c\x00e\x00s\x00:\x00/\x00b\x00o\x00o\x00s\x00t\x00-\x00y\x00o\x00u\x00r\x00-\x00c\x00o\x00d\x00i\x00n\x00g\x00-\x00f\x00u\x00-\x00w\x00i\x00t\x00h\x00-\x00v\x00s\x00c\x00o\x00d\x00e\x00-\x00a\x00n\x00d\x00-\x00v\x00i\x00m\x00/\x00t\x00a\x00b\x00l\x00e\x00-\x00o\x00f\x00-\x00c\x00o\x00n\x00t\x00e\x00n\x00t\x00s' @ 109 : 1 .. (end); will stop at (end)

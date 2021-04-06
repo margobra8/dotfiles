@@ -1,0 +1,9 @@
+#!/bin/sh
+
+case "$1" in
+	d) xbacklight -dec 5 ;;
+	i) xbacklight -inc 5 ;;
+	eco) xbacklight -set 1 ;;
+	day) xbacklight -set 50 ;;
+	*) echo $"Usage: $0 {d|i|eco|day} (dec|inc|eco/night|daylight}" ; exit 1 ;;
+esac

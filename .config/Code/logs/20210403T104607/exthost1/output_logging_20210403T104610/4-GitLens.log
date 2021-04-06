@@ -1,0 +1,2 @@
+[2021-04-03 10:08:55:065] Warning(/usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false show --textconv b8bcb774ae52fd0e8d4878f9bd56836dfe50decf:./cmds_quiz.js --): 
+[2021-04-03 12:25:43:614] [/home/marcos/core/Entrega5_BBDD] Git Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 75,75:model.js • file model.js has only 68 lines • 10 ms 

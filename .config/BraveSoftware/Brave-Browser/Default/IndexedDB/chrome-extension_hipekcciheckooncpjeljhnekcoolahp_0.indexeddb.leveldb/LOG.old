@@ -1,0 +1,15 @@
+2021/04/06-17:32:24.321 bdc80 Reusing MANIFEST /home/marcos/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/chrome-extension_hipekcciheckooncpjeljhnekcoolahp_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/06-17:32:24.321 bdc80 Recovering log #529
+2021/04/06-17:32:24.321 bdc80 Reusing old log /home/marcos/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/chrome-extension_hipekcciheckooncpjeljhnekcoolahp_0.indexeddb.leveldb/000529.log 
+2021/04/06-17:32:30.535 bdc80 Level-0 table #534: started
+2021/04/06-17:32:30.541 bdc80 Level-0 table #534: 1374 bytes OK
+2021/04/06-17:32:30.548 bdc80 Delete type=0 #529
+2021/04/06-17:32:30.548 bdc80 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/04/06-17:32:30.549 bdc80 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x03\x01\x0d\x00p\x00e\x00r\x00s\x00i\x00s\x00t\x00:\x00c\x00a\x00c\x00h\x00e' @ 7101 : 0
+2021/04/06-17:32:30.549 bdc80 Compacting 1@1 + 1@2 files
+2021/04/06-17:32:30.554 bdc80 Generated table #535@1: 40 keys, 1510 bytes
+2021/04/06-17:32:30.554 bdc80 Compacted 1@1 + 1@2 files => 1510 bytes
+2021/04/06-17:32:30.561 bdc80 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/04/06-17:32:30.562 bdc80 Delete type=2 #531
+2021/04/06-17:32:30.562 bdc80 Delete type=2 #534
+2021/04/06-17:32:30.562 bdc80 Manual compaction at level-1 from '\x00\x01\x01\x03\x01\x0d\x00p\x00e\x00r\x00s\x00i\x00s\x00t\x00:\x00c\x00a\x00c\x00h\x00e' @ 7101 : 0 .. (end); will stop at (end)

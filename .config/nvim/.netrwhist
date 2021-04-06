@@ -1,3 +1,12 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =1
-let g:netrw_dirhist_1='/home/marcos/.config/sxhkd'
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/home/marcos/.config/sxhkd'
+let g:netrw_dirhist_3='/home/marcos/.config'
+let g:netrw_dirhist_2='/home/marcos/.config/alacritty'
+let g:netrw_dirhist_1='/home/marcos/.screenlayout'
+let g:netrw_dirhist_0='/home/marcos/.config/polybar/scripts'
+let g:netrw_dirhist_9='/home/marcos/.config/spotifyd'
+let g:netrw_dirhist_8='/home/marcos'
+let g:netrw_dirhist_7='/home/marcos/.local/share/fonts/termsyn'
+let g:netrw_dirhist_6='/home/marcos/.local/share/fonts'
+let g:netrw_dirhist_5='/home/marcos/.config/openbox'

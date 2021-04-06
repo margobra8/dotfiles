@@ -1,0 +1,15 @@
+2021/04/02-15:25:49.285 8894 Reusing MANIFEST /home/marcos/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.barbarianmeetscoding.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/02-15:25:49.285 8894 Recovering log #7
+2021/04/02-15:25:49.286 8894 Reusing old log /home/marcos/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.barbarianmeetscoding.com_0.indexeddb.leveldb/000007.log 
+2021/04/02-15:26:21.332 888f Level-0 table #12: started
+2021/04/02-15:26:21.365 888f Level-0 table #12: 1128 bytes OK
+2021/04/02-15:26:21.377 888f Delete type=0 #7
+2021/04/02-15:26:21.377 888f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/04/02-15:26:21.378 888f Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01T\x00r\x00e\x00s\x00o\x00u\x00r\x00c\x00e\x00s\x00:\x00/\x00b\x00o\x00o\x00s\x00t\x00-\x00y\x00o\x00u\x00r\x00-\x00c\x00o\x00d\x00i\x00n\x00g\x00-\x00f\x00u\x00-\x00w\x00i\x00t\x00h\x00-\x00v\x00s\x00c\x00o\x00d\x00e\x00-\x00a\x00n\x00d\x00-\x00v\x00i\x00m\x00/\x00s\x00o\x00m\x00e\x00-\x00h\x00a\x00n\x00d\x00y\x00-\x00v\x00s\x00c\x00o\x00d\x00e\x00-\x00o\x00n\x00l\x00y\x00-\x00m\x00a\x00p\x00p\x00i\x00n\x00g\x00s\x00/' @ 229 : 1
+2021/04/02-15:26:21.378 888f Compacting 1@1 + 1@2 files
+2021/04/02-15:26:21.383 888f Generated table #13@1: 35 keys, 2106 bytes
+2021/04/02-15:26:21.383 888f Compacted 1@1 + 1@2 files => 2106 bytes
+2021/04/02-15:26:21.395 888f compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/04/02-15:26:21.396 888f Delete type=2 #9
+2021/04/02-15:26:21.396 888f Delete type=2 #12
+2021/04/02-15:26:21.396 888f Manual compaction at level-1 from '\x00\x01\x01\x02\x01T\x00r\x00e\x00s\x00o\x00u\x00r\x00c\x00e\x00s\x00:\x00/\x00b\x00o\x00o\x00s\x00t\x00-\x00y\x00o\x00u\x00r\x00-\x00c\x00o\x00d\x00i\x00n\x00g\x00-\x00f\x00u\x00-\x00w\x00i\x00t\x00h\x00-\x00v\x00s\x00c\x00o\x00d\x00e\x00-\x00a\x00n\x00d\x00-\x00v\x00i\x00m\x00/\x00s\x00o\x00m\x00e\x00-\x00h\x00a\x00n\x00d\x00y\x00-\x00v\x00s\x00c\x00o\x00d\x00e\x00-\x00o\x00n\x00l\x00y\x00-\x00m\x00a\x00p\x00p\x00i\x00n\x00g\x00s\x00/' @ 229 : 1 .. (end); will stop at (end)

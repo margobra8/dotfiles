@@ -1,0 +1,12 @@
+{
+    "telemetry.enableTelemetry": false,
+    "workbench.colorTheme": "Wal Bordered",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "editor.fontFamily": "'Terminus (TTF)','monospace', monospace",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.fontSize": 16,
+    "customizeUI.activityBarHideSettings": true
+}

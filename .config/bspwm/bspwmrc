@@ -1,19 +1,57 @@
 #! /bin/sh
 
+is_DP3_connected() {
+my_laptop_external_monitor=$(xrandr --query | grep 'DP3')
+if [[ ! $my_laptop_external_monitor = *disconnected* ]]; then
+   echo "true"
+else
+   echo "false"
+fi
+}
+
 sxhkd &
-$HOME/.config/polybar/launch.sh
 
-bspc monitor -d I II III IV V VI VII VIII IX X
+# xrandr configuration if external monitor is connected
+if [[ $(is_DP3_connected) == "true" ]]; then
+   echo "DP3 monitor connected: calling xrandr with config"
+   $HOME/.screenlayout/aoc.sh &
+fi
 
+
+# configure bspwm desktops based on the currently connected monitors 
+if [[ $(is_DP3_connected) == "true" ]]; then
+   echo "DP3 connected desktops"
+   bspc monitor DP3 -d 1 2 3 4 5 
+   bspc monitor eDP1 -d 6 7 8 9 10
+   bspc wm -O DP3 eDP1
+else
+   bspc monitor eDP1 -d 1 2 3 4 5
+fi
+
+source $HOME/.cache/wal/colors.sh
+
+# bspwm UI configurations
 bspc config border_width         2
 bspc config window_gap          12
 
-bspc config split_ratio          0.52
+bspc config normal_border_color "$color1"
+bspc config active_border_color "$color2"
+bspc config focused_border_color "$color15"
+bspc config presel_feedback_color "$color1"
+
+
+bspc config split_ratio          0.50
 bspc config borderless_monocle   true
 bspc config gapless_monocle      true
 
+bspc config focus_follows_pointer true
+
+# make bspwm spawn certain programs in certain desktops
 bspc rule -a Gimp desktop='^8' state=floating follow=on
-bspc rule -a Chromium desktop='^2'
-bspc rule -a mplayer2 state=floating
-bspc rule -a Kupfer.py focus=on
-bspc rule -a Screenkey manage=off
+bspc rule -a Brave-browser desktop='^2'
+
+
+# autostart
+$HOME/.config/polybar/launch.sh &
+nm-applet &
+flameshot &

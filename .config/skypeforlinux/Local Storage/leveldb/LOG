@@ -1,0 +1,6 @@
+2021/04/06-16:24:39.397 4d2dd Reusing MANIFEST /home/marcos/.config/skypeforlinux/Local Storage/leveldb/MANIFEST-000001
+2021/04/06-16:24:39.397 4d2dd Recovering log #4
+2021/04/06-16:24:39.397 4d2dd Reusing old log /home/marcos/.config/skypeforlinux/Local Storage/leveldb/000004.log 
+2021/04/06-16:26:12.898 4d2dd Level-0 table #8: started
+2021/04/06-16:26:12.904 4d2dd Level-0 table #8: 64316 bytes OK
+2021/04/06-16:26:12.911 4d2dd Delete type=0 #4

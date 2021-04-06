@@ -1,0 +1,5 @@
+2021/03/29-14:37:22.985 160cb5 Reusing MANIFEST /home/marcos/.config/Microsoft/Microsoft Teams/Local Storage/leveldb/MANIFEST-000001
+2021/03/29-14:37:22.985 160cb5 Recovering log #4
+2021/03/29-14:37:22.988 160cb5 Reusing old log /home/marcos/.config/Microsoft/Microsoft Teams/Local Storage/leveldb/000004.log 
+2021/03/29-14:38:26.224 16bf11 Level-0 table #8: started
+2021/03/29-14:38:26.230 16bf11 Level-0 table #8: 108785 bytes OK

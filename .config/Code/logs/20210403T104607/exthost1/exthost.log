@@ -1,0 +1,554 @@
+[2021-04-03 10:46:09.689] [exthost] [info] extension host started
+[2021-04-03 10:46:09.726] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-04-03 10:46:09.726] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-04-03 10:46:09.731] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-04-03 10:46:09.731] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-04-03 10:46:09.733] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-04-03 10:46:09.733] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/git/dist/main
+[2021-04-03 10:46:09.745] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"workspaceContains:package.json"}
+[2021-04-03 10:46:09.746] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/npm/dist/npmMain
+[2021-04-03 10:46:09.951] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-04-03 10:46:09.951] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github/dist/extension.js
+[2021-04-03 10:46:10.048] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-04-03 10:46:10.048] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-04-03 10:46:10.334] [exthost] [info] eager extensions activated
+[2021-04-03 10:46:10.350] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-04-03 10:46:10.350] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-04-03 10:46:10.354] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-04-03 10:46:10.354] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-04-03 10:46:10.356] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-04-03 10:46:10.356] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/testing-editor-contributions/dist/extension.js
+[2021-04-03 10:46:10.356] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":false,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"onStartupFinished"}
+[2021-04-03 10:46:10.356] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/marcos/.vscode/extensions/dbaeumer.vscode-eslint-2.1.19/client/out/extension
+[2021-04-03 10:46:10.364] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":false,"extensionId":{"value":"eamodio.gitlens","_lower":"eamodio.gitlens"},"activationEvent":"onStartupFinished"}
+[2021-04-03 10:46:10.364] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/marcos/.vscode/extensions/eamodio.gitlens-11.3.0/dist/gitlens
+[2021-04-03 10:46:10.387] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":false,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"onStartupFinished"}
+[2021-04-03 10:46:10.387] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/marcos/.vscode/extensions/esbenp.prettier-vscode-6.3.1/dist/extension
+[2021-04-03 10:46:10.432] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner {"startup":false,"extensionId":{"value":"formulahendry.code-runner","_lower":"formulahendry.code-runner"},"activationEvent":"onStartupFinished"}
+[2021-04-03 10:46:10.432] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/marcos/.vscode/extensions/formulahendry.code-runner-0.11.3/out/src/extension
+[2021-04-03 10:46:10.563] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-04-03 10:46:10.563] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-04-03 10:46:10.960] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:javascript"}
+[2021-04-03 10:46:10.960] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension
+[2021-04-03 10:46:10.974] [exthost] [info] ExtensionService#_doActivateExtension aaron-bond.better-comments {"startup":false,"extensionId":{"value":"aaron-bond.better-comments","_lower":"aaron-bond.better-comments"},"activationEvent":"onLanguage:javascript"}
+[2021-04-03 10:46:10.974] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/marcos/.vscode/extensions/aaron-bond.better-comments-2.1.0/out/extension
+[2021-04-03 10:46:10.976] [exthost] [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.vscodeintellicode {"startup":false,"extensionId":{"value":"VisualStudioExptTeam.vscodeintellicode","_lower":"visualstudioexptteam.vscodeintellicode"},"activationEvent":"onLanguage:javascript"}
+[2021-04-03 10:46:10.976] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/marcos/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.12/dist/intellicode
+[2021-04-03 10:46:13.696] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 11:30:16.105] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:typescript"}
+[2021-04-03 11:30:16.106] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/extension-editing/dist/extensionEditingMain
+[2021-04-03 11:30:27.875] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 11:30:49.451] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 11:31:15.923] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 11:31:16.305] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:json"}
+[2021-04-03 11:31:16.305] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2021-04-03 11:31:16.310] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:json"}
+[2021-04-03 11:31:16.310] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-04-03 11:31:25.038] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim {"startup":false,"extensionId":{"value":"vscodevim.vim","_lower":"vscodevim.vim"},"activationEvent":"*"}
+[2021-04-03 11:31:25.038] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/marcos/.vscode/extensions/vscodevim.vim-1.19.3/out/extension
+[2021-04-03 11:33:37.273] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 11:34:01.089] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 11:45:43.658] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 11:45:44.282] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 11:45:46.883] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 11:45:47.078] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features {"startup":false,"extensionId":{"value":"vscode.markdown-language-features","_lower":"vscode.markdown-language-features"},"activationEvent":"onLanguage:markdown"}
+[2021-04-03 11:45:47.078] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/markdown-language-features/dist/extension
+[2021-04-03 11:45:47.116] [exthost] [info] ExtensionService#_doActivateExtension DavidAnson.vscode-markdownlint {"startup":false,"extensionId":{"value":"DavidAnson.vscode-markdownlint","_lower":"davidanson.vscode-markdownlint"},"activationEvent":"onLanguage:markdown"}
+[2021-04-03 11:45:47.116] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/marcos/.vscode/extensions/davidanson.vscode-markdownlint-0.40.1/bundle
+[2021-04-03 11:45:47.384] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 11:45:55.560] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 11:45:55.568] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 11:45:55.568] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 11:45:55.573] [exthost] [warning] {"name":"DISPOSED","message":"TextEditor(vs.editor.ICodeEditor:2,$model23) has been disposed"}
+[2021-04-03 11:46:23.869] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 11:46:37.438] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 11:46:37.438] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 11:46:43.889] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 11:46:43.889] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 11:49:46.973] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 11:49:46.973] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 11:51:29.397] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 11:51:31.509] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 11:51:32.570] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 11:52:50.415] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 11:52:55.635] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 11:52:59.649] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 11:53:31.394] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 11:53:39.264] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 11:54:29.867] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 11:54:29.867] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 11:54:35.641] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 11:55:05.234] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 11:55:06.284] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 11:55:07.861] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 11:55:21.799] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2021-04-03 11:55:21.813] [exthost] [error] Error: <semantic> TypeScript Server Error (4.2.3)
+Cannot read property '0' of undefined
+TypeError: Cannot read property '0' of undefined
+    at getModuleSpecifierExpression (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:127873:93)
+    at compareImportsOrRequireStatements (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:127895:44)
+    at binarySearchKey (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:1193:21)
+    at Object.binarySearch (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:1171:16)
+    at Object.getImportDeclarationInsertionIndex (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:127885:28)
+    at Object.insertImports (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:116628:57)
+    at codeActionForFixWorker (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:138461:24)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:138437:24
+    at Function.ChangeTracker.with (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:134317:17)
+    at codeActionForFix (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:138436:60)
+    at Object.getImportCompletionAction (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:138021:94)
+    at getCompletionEntryCodeActionsAndSourceDisplay (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119987:33)
+    at Object.getCompletionEntryDetails (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119951:30)
+    at getCompletionEntryDetails (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149239:35)
+    at /home/marcos/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.12/node_modules/@vsintellicode/typescript-intellicode-plugin/lib/index.js:2:8377
+    at Object.l.getCompletionEntryDetails (/home/marcos/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.12/node_modules/@vsintellicode/typescript-intellicode-plugin/lib/index.js:2:8477)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:160359:57
+    at Object.mapDefined (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:612:30)
+    at IOSession.Session.getCompletionEntryDetails (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:160357:33)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:159217:61)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:160963:88
+    at IOSession.Session.executeWithRequestId (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:160954:28)
+    at IOSession.Session.executeCommand (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:160963:33)
+    at IOSession.Session.onMessage (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:160989:35)
+    at Interface.<anonymous> (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:163650:31)
+    at Interface.emit (events.js:315:20)
+    at Interface._onLine (readline.js:329:10)
+    at Interface._normalWrite (readline.js:474:12)
+    at Socket.ondata (readline.js:186:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:271:9)
+    at Socket.Readable.push (_stream_readable.js:212:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:186:23)
+    at Function.create (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:70135)
+    at dispatchResponse (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:64010)
+    at dispatchMessage (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:62869)
+    at /opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:62379
+    at _.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:57:1836)
+    at g.onLengthData (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:431342)
+    at Socket.<anonymous> (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:430990)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:271:9)
+    at Socket.Readable.push (_stream_readable.js:212:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:186:23)
+[2021-04-03 12:02:47.962] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2021-04-03 12:02:47.963] [exthost] [error] Error: <semantic> TypeScript Server Error (4.2.3)
+Cannot read property '0' of undefined
+TypeError: Cannot read property '0' of undefined
+    at getModuleSpecifierExpression (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:127873:93)
+    at compareImportsOrRequireStatements (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:127895:44)
+    at binarySearchKey (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:1193:21)
+    at Object.binarySearch (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:1171:16)
+    at Object.getImportDeclarationInsertionIndex (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:127885:28)
+    at Object.insertImports (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:116628:57)
+    at codeActionForFixWorker (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:138461:24)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:138437:24
+    at Function.ChangeTracker.with (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:134317:17)
+    at codeActionForFix (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:138436:60)
+    at Object.getImportCompletionAction (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:138021:94)
+    at getCompletionEntryCodeActionsAndSourceDisplay (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119987:33)
+    at Object.getCompletionEntryDetails (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119951:30)
+    at getCompletionEntryDetails (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149239:35)
+    at /home/marcos/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.12/node_modules/@vsintellicode/typescript-intellicode-plugin/lib/index.js:2:8377
+    at Object.l.getCompletionEntryDetails (/home/marcos/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.12/node_modules/@vsintellicode/typescript-intellicode-plugin/lib/index.js:2:8477)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:160359:57
+    at Object.mapDefined (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:612:30)
+    at IOSession.Session.getCompletionEntryDetails (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:160357:33)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:159217:61)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:160963:88
+    at IOSession.Session.executeWithRequestId (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:160954:28)
+    at IOSession.Session.executeCommand (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:160963:33)
+    at IOSession.Session.onMessage (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:160989:35)
+    at Interface.<anonymous> (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:163650:31)
+    at Interface.emit (events.js:315:20)
+    at Interface._onLine (readline.js:329:10)
+    at Interface._normalWrite (readline.js:474:12)
+    at Socket.ondata (readline.js:186:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:271:9)
+    at Socket.Readable.push (_stream_readable.js:212:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:186:23)
+    at Function.create (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:70135)
+    at dispatchResponse (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:64010)
+    at dispatchMessage (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:62869)
+    at /opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:62379
+    at _.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:57:1836)
+    at g.onLengthData (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:431342)
+    at Socket.<anonymous> (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:430990)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:271:9)
+    at Socket.Readable.push (_stream_readable.js:212:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:186:23)
+[2021-04-03 12:08:55.065] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 12:09:02.576] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 12:16:25.824] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 12:16:31.913] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 12:16:33.238] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 12:25:58.577] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 12:26:55.787] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 12:28:17.699] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 12:36:38.413] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 12:36:46.662] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 12:36:55.152] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 12:36:57.517] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 13:13:42.403] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 13:15:47.656] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 13:16:40.123] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 13:16:41.331] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 13:21:43.471] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 13:27:58.562] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 13:28:34.593] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 13:28:51.751] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 13:30:41.588] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 13:30:43.292] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 13:30:44.567] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 13:30:49.904] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 13:32:12.773] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 13:32:13.140] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 13:32:54.801] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2021-04-03 13:32:54.802] [exthost] [error] Error: <semantic> TypeScript Server Error (4.2.3)
+Cannot read property '0' of undefined
+TypeError: Cannot read property '0' of undefined
+    at getModuleSpecifierExpression (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:127873:93)
+    at compareImportsOrRequireStatements (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:127895:44)
+    at binarySearchKey (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:1193:21)
+    at Object.binarySearch (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:1171:16)
+    at Object.getImportDeclarationInsertionIndex (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:127885:28)
+    at Object.insertImports (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:116628:57)
+    at codeActionForFixWorker (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:138461:24)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:138437:24
+    at Function.ChangeTracker.with (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:134317:17)
+    at codeActionForFix (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:138436:60)
+    at Object.getImportCompletionAction (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:138021:94)
+    at getCompletionEntryCodeActionsAndSourceDisplay (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119987:33)
+    at Object.getCompletionEntryDetails (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119951:30)
+    at getCompletionEntryDetails (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149239:35)
+    at /home/marcos/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.12/node_modules/@vsintellicode/typescript-intellicode-plugin/lib/index.js:2:8377
+    at Object.l.getCompletionEntryDetails (/home/marcos/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.12/node_modules/@vsintellicode/typescript-intellicode-plugin/lib/index.js:2:8477)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:160359:57
+    at Object.mapDefined (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:612:30)
+    at IOSession.Session.getCompletionEntryDetails (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:160357:33)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:159217:61)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:160963:88
+    at IOSession.Session.executeWithRequestId (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:160954:28)
+    at IOSession.Session.executeCommand (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:160963:33)
+    at IOSession.Session.onMessage (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:160989:35)
+    at Interface.<anonymous> (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:163650:31)
+    at Interface.emit (events.js:315:20)
+    at Interface._onLine (readline.js:329:10)
+    at Interface._normalWrite (readline.js:474:12)
+    at Socket.ondata (readline.js:186:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:271:9)
+    at Socket.Readable.push (_stream_readable.js:212:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:186:23)
+    at Function.create (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:70135)
+    at dispatchResponse (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:64010)
+    at dispatchMessage (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:62869)
+    at /opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:62379
+    at _.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:57:1836)
+    at g.onLengthData (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:431342)
+    at Socket.<anonymous> (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:430990)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:271:9)
+    at Socket.Readable.push (_stream_readable.js:212:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:186:23)
+[2021-04-03 13:32:55.102] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2021-04-03 13:32:55.102] [exthost] [error] Error: <semantic> TypeScript Server Error (4.2.3)
+Cannot read property '0' of undefined
+TypeError: Cannot read property '0' of undefined
+    at getModuleSpecifierExpression (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:127873:93)
+    at compareImportsOrRequireStatements (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:127895:44)
+    at binarySearchKey (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:1193:21)
+    at Object.binarySearch (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:1171:16)
+    at Object.getImportDeclarationInsertionIndex (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:127885:28)
+    at Object.insertImports (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:116628:57)
+    at codeActionForFixWorker (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:138461:24)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:138437:24
+    at Function.ChangeTracker.with (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:134317:17)
+    at codeActionForFix (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:138436:60)
+    at Object.getImportCompletionAction (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:138021:94)
+    at getCompletionEntryCodeActionsAndSourceDisplay (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119987:33)
+    at Object.getCompletionEntryDetails (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119951:30)
+    at getCompletionEntryDetails (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149239:35)
+    at /home/marcos/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.12/node_modules/@vsintellicode/typescript-intellicode-plugin/lib/index.js:2:8377
+    at Object.l.getCompletionEntryDetails (/home/marcos/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.12/node_modules/@vsintellicode/typescript-intellicode-plugin/lib/index.js:2:8477)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:160359:57
+    at Object.mapDefined (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:612:30)
+    at IOSession.Session.getCompletionEntryDetails (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:160357:33)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:159217:61)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:160963:88
+    at IOSession.Session.executeWithRequestId (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:160954:28)
+    at IOSession.Session.executeCommand (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:160963:33)
+    at IOSession.Session.onMessage (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:160989:35)
+    at Interface.<anonymous> (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:163650:31)
+    at Interface.emit (events.js:315:20)
+    at Interface._onLine (readline.js:329:10)
+    at Interface._normalWrite (readline.js:474:12)
+    at Socket.ondata (readline.js:186:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:271:9)
+    at Socket.Readable.push (_stream_readable.js:212:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:186:23)
+    at Function.create (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:70135)
+    at dispatchResponse (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:64010)
+    at dispatchMessage (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:62869)
+    at /opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:62379
+    at _.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:57:1836)
+    at g.onLengthData (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:431342)
+    at Socket.<anonymous> (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:430990)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:271:9)
+    at Socket.Readable.push (_stream_readable.js:212:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:186:23)
+[2021-04-03 13:33:33.026] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2021-04-03 13:33:33.026] [exthost] [error] Error: <semantic> TypeScript Server Error (4.2.3)
+Cannot read property '0' of undefined
+TypeError: Cannot read property '0' of undefined
+    at getModuleSpecifierExpression (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:127873:93)
+    at compareImportsOrRequireStatements (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:127895:44)
+    at binarySearchKey (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:1193:21)
+    at Object.binarySearch (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:1171:16)
+    at Object.getImportDeclarationInsertionIndex (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:127885:28)
+    at Object.insertImports (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:116628:57)
+    at codeActionForFixWorker (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:138461:24)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:138437:24
+    at Function.ChangeTracker.with (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:134317:17)
+    at codeActionForFix (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:138436:60)
+    at Object.getImportCompletionAction (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:138021:94)
+    at getCompletionEntryCodeActionsAndSourceDisplay (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119987:33)
+    at Object.getCompletionEntryDetails (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119951:30)
+    at getCompletionEntryDetails (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149239:35)
+    at /home/marcos/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.12/node_modules/@vsintellicode/typescript-intellicode-plugin/lib/index.js:2:8377
+    at Object.l.getCompletionEntryDetails (/home/marcos/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.12/node_modules/@vsintellicode/typescript-intellicode-plugin/lib/index.js:2:8477)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:160359:57
+    at Object.mapDefined (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:612:30)
+    at IOSession.Session.getCompletionEntryDetails (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:160357:33)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:159217:61)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:160963:88
+    at IOSession.Session.executeWithRequestId (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:160954:28)
+    at IOSession.Session.executeCommand (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:160963:33)
+    at IOSession.Session.onMessage (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:160989:35)
+    at Interface.<anonymous> (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:163650:31)
+    at Interface.emit (events.js:315:20)
+    at Interface._onLine (readline.js:329:10)
+    at Interface._normalWrite (readline.js:474:12)
+    at Socket.ondata (readline.js:186:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:271:9)
+    at Socket.Readable.push (_stream_readable.js:212:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:186:23)
+    at Function.create (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:70135)
+    at dispatchResponse (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:64010)
+    at dispatchMessage (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:62869)
+    at /opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:62379
+    at _.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:57:1836)
+    at g.onLengthData (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:431342)
+    at Socket.<anonymous> (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:430990)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:271:9)
+    at Socket.Readable.push (_stream_readable.js:212:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:186:23)
+[2021-04-03 13:36:38.076] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 13:37:01.389] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 13:37:03.644] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 13:37:04.675] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 13:37:13.390] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2021-04-03 13:37:13.390] [exthost] [error] Error: <semantic> TypeScript Server Error (4.2.3)
+Cannot read property '0' of undefined
+TypeError: Cannot read property '0' of undefined
+    at getModuleSpecifierExpression (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:127873:93)
+    at compareImportsOrRequireStatements (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:127895:44)
+    at binarySearchKey (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:1193:21)
+    at Object.binarySearch (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:1171:16)
+    at Object.getImportDeclarationInsertionIndex (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:127885:28)
+    at Object.insertImports (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:116628:57)
+    at codeActionForFixWorker (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:138461:24)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:138437:24
+    at Function.ChangeTracker.with (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:134317:17)
+    at codeActionForFix (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:138436:60)
+    at Object.getImportCompletionAction (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:138021:94)
+    at getCompletionEntryCodeActionsAndSourceDisplay (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119987:33)
+    at Object.getCompletionEntryDetails (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119951:30)
+    at getCompletionEntryDetails (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149239:35)
+    at /home/marcos/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.12/node_modules/@vsintellicode/typescript-intellicode-plugin/lib/index.js:2:8377
+    at Object.l.getCompletionEntryDetails (/home/marcos/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.12/node_modules/@vsintellicode/typescript-intellicode-plugin/lib/index.js:2:8477)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:160359:57
+    at Object.mapDefined (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:612:30)
+    at IOSession.Session.getCompletionEntryDetails (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:160357:33)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:159217:61)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:160963:88
+    at IOSession.Session.executeWithRequestId (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:160954:28)
+    at IOSession.Session.executeCommand (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:160963:33)
+    at IOSession.Session.onMessage (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:160989:35)
+    at Interface.<anonymous> (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:163650:31)
+    at Interface.emit (events.js:315:20)
+    at Interface._onLine (readline.js:329:10)
+    at Interface._normalWrite (readline.js:474:12)
+    at Socket.ondata (readline.js:186:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:271:9)
+    at Socket.Readable.push (_stream_readable.js:212:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:186:23)
+    at Function.create (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:70135)
+    at dispatchResponse (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:64010)
+    at dispatchMessage (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:62869)
+    at /opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:62379
+    at _.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:57:1836)
+    at g.onLengthData (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:431342)
+    at Socket.<anonymous> (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:430990)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:271:9)
+    at Socket.Readable.push (_stream_readable.js:212:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:186:23)
+[2021-04-03 13:41:35.404] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 13:41:40.842] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 13:41:55.182] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 13:42:03.263] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 13:42:41.189] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 13:42:43.671] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 13:42:44.770] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 13:42:51.084] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 13:42:51.944] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 13:43:05.843] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 13:44:55.350] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2021-04-03 13:44:55.351] [exthost] [error] Error: <semantic> TypeScript Server Error (4.2.3)
+Cannot read property '0' of undefined
+TypeError: Cannot read property '0' of undefined
+    at getModuleSpecifierExpression (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:127873:93)
+    at compareImportsOrRequireStatements (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:127895:44)
+    at binarySearchKey (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:1193:21)
+    at Object.binarySearch (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:1171:16)
+    at Object.getImportDeclarationInsertionIndex (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:127885:28)
+    at Object.insertImports (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:116628:57)
+    at codeActionForFixWorker (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:138461:24)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:138437:24
+    at Function.ChangeTracker.with (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:134317:17)
+    at codeActionForFix (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:138436:60)
+    at Object.getImportCompletionAction (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:138021:94)
+    at getCompletionEntryCodeActionsAndSourceDisplay (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119987:33)
+    at Object.getCompletionEntryDetails (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119951:30)
+    at getCompletionEntryDetails (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149239:35)
+    at /home/marcos/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.12/node_modules/@vsintellicode/typescript-intellicode-plugin/lib/index.js:2:8377
+    at Object.l.getCompletionEntryDetails (/home/marcos/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.12/node_modules/@vsintellicode/typescript-intellicode-plugin/lib/index.js:2:8477)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:160359:57
+    at Object.mapDefined (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:612:30)
+    at IOSession.Session.getCompletionEntryDetails (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:160357:33)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:159217:61)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:160963:88
+    at IOSession.Session.executeWithRequestId (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:160954:28)
+    at IOSession.Session.executeCommand (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:160963:33)
+    at IOSession.Session.onMessage (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:160989:35)
+    at Interface.<anonymous> (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:163650:31)
+    at Interface.emit (events.js:315:20)
+    at Interface._onLine (readline.js:329:10)
+    at Interface._normalWrite (readline.js:474:12)
+    at Socket.ondata (readline.js:186:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:271:9)
+    at Socket.Readable.push (_stream_readable.js:212:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:186:23)
+    at Function.create (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:70135)
+    at dispatchResponse (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:64010)
+    at dispatchMessage (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:62869)
+    at /opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:62379
+    at _.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:57:1836)
+    at g.onLengthData (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:431342)
+    at Socket.<anonymous> (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:430990)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:271:9)
+    at Socket.Readable.push (_stream_readable.js:212:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:186:23)
+[2021-04-03 13:50:53.145] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 13:50:53.592] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 13:52:43.483] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 13:53:38.018] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 13:53:39.382] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 13:53:54.998] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 13:53:58.549] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 13:54:14.123] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 13:54:14.335] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 13:57:20.880] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 13:57:22.529] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 13:58:32.856] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 13:58:35.746] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 14:00:22.024] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 14:09:57.870] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 14:09:59.188] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 14:18:00.176] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2021-04-03 14:18:00.177] [exthost] [error] Error: <semantic> TypeScript Server Error (4.2.3)
+Cannot read property '0' of undefined
+TypeError: Cannot read property '0' of undefined
+    at getModuleSpecifierExpression (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:127873:93)
+    at compareImportsOrRequireStatements (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:127895:44)
+    at binarySearchKey (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:1193:21)
+    at Object.binarySearch (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:1171:16)
+    at Object.getImportDeclarationInsertionIndex (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:127885:28)
+    at Object.insertImports (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:116628:57)
+    at codeActionForFixWorker (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:138461:24)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:138437:24
+    at Function.ChangeTracker.with (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:134317:17)
+    at codeActionForFix (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:138436:60)
+    at Object.getImportCompletionAction (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:138021:94)
+    at getCompletionEntryCodeActionsAndSourceDisplay (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119987:33)
+    at Object.getCompletionEntryDetails (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:119951:30)
+    at getCompletionEntryDetails (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149239:35)
+    at /home/marcos/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.12/node_modules/@vsintellicode/typescript-intellicode-plugin/lib/index.js:2:8377
+    at Object.l.getCompletionEntryDetails (/home/marcos/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.12/node_modules/@vsintellicode/typescript-intellicode-plugin/lib/index.js:2:8477)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:160359:57
+    at Object.mapDefined (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:612:30)
+    at IOSession.Session.getCompletionEntryDetails (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:160357:33)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:159217:61)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:160963:88
+    at IOSession.Session.executeWithRequestId (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:160954:28)
+    at IOSession.Session.executeCommand (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:160963:33)
+    at IOSession.Session.onMessage (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:160989:35)
+    at Interface.<anonymous> (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:163650:31)
+    at Interface.emit (events.js:315:20)
+    at Interface._onLine (readline.js:329:10)
+    at Interface._normalWrite (readline.js:474:12)
+    at Socket.ondata (readline.js:186:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:271:9)
+    at Socket.Readable.push (_stream_readable.js:212:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:186:23)
+    at Function.create (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:70135)
+    at dispatchResponse (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:64010)
+    at dispatchMessage (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:62869)
+    at /opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:62379
+    at _.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:57:1836)
+    at g.onLengthData (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:431342)
+    at Socket.<anonymous> (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:430990)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:271:9)
+    at Socket.Readable.push (_stream_readable.js:212:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:186:23)
+[2021-04-03 14:19:44.369] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 14:24:39.228] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 14:24:40.576] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 14:26:57.341] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 14:26:59.653] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 14:27:00.931] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 14:27:42.914] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 18:58:23.109] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 18:58:25.832] [exthost] [info] ExtensionService#_doActivateExtension dlasagno.wal-theme {"startup":false,"extensionId":{"value":"dlasagno.wal-theme","_lower":"dlasagno.wal-theme"},"activationEvent":"*"}
+[2021-04-03 18:58:25.832] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/marcos/.vscode/extensions/dlasagno.wal-theme-1.0.4/out/extension.js
+[2021-04-03 18:58:47.310] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 19:08:09.553] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 19:08:24.565] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-03 19:08:27.791] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-04-03 19:08:28.829] [exthost] [info] exiting with code 0

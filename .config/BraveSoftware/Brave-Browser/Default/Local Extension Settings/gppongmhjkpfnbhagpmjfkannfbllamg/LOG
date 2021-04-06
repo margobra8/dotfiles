@@ -1,0 +1,33 @@
+2021/04/06-13:41:14.615 4965 Reusing MANIFEST /home/marcos/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/gppongmhjkpfnbhagpmjfkannfbllamg/MANIFEST-000001
+2021/04/06-13:41:14.616 4965 Recovering log #301
+2021/04/06-13:41:14.619 4965 Reusing old log /home/marcos/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/gppongmhjkpfnbhagpmjfkannfbllamg/000301.log 
+2021/04/06-14:15:51.768 18173 Level-0 table #306: started
+2021/04/06-14:15:51.804 18173 Level-0 table #306: 372406 bytes OK
+2021/04/06-14:15:51.812 18173 Delete type=0 #301
+2021/04/06-14:24:59.813 1ebfd Level-0 table #308: started
+2021/04/06-14:24:59.857 1ebfd Level-0 table #308: 378977 bytes OK
+2021/04/06-14:24:59.865 1ebfd Delete type=0 #305
+2021/04/06-16:21:51.981 3dd03 Level-0 table #310: started
+2021/04/06-16:21:51.989 3dd03 Level-0 table #310: 363712 bytes OK
+2021/04/06-16:21:51.996 3dd03 Delete type=0 #307
+2021/04/06-16:49:10.641 74da1 Level-0 table #312: started
+2021/04/06-16:49:10.678 74da1 Level-0 table #312: 357397 bytes OK
+2021/04/06-16:49:10.686 74da1 Delete type=0 #309
+2021/04/06-16:49:10.687 74da1 Compacting 4@0 + 1@1 files
+2021/04/06-16:49:10.701 74da1 Generated table #313@0: 2 keys, 19668 bytes
+2021/04/06-16:49:10.701 74da1 Compacted 4@0 + 1@1 files => 19668 bytes
+2021/04/06-16:49:10.708 74da1 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/04/06-16:49:10.708 74da1 Delete type=2 #308
+2021/04/06-16:49:10.708 74da1 Delete type=2 #310
+2021/04/06-16:49:10.708 74da1 Delete type=2 #303
+2021/04/06-16:49:10.708 74da1 Delete type=2 #306
+2021/04/06-16:49:10.708 74da1 Delete type=2 #312
+2021/04/06-16:55:21.446 77fc4 Level-0 table #315: started
+2021/04/06-16:55:21.481 77fc4 Level-0 table #315: 399090 bytes OK
+2021/04/06-16:55:21.496 77fc4 Delete type=0 #311
+2021/04/06-16:58:29.442 77fc4 Level-0 table #317: started
+2021/04/06-16:58:29.450 77fc4 Level-0 table #317: 376002 bytes OK
+2021/04/06-16:58:29.457 77fc4 Delete type=0 #314
+2021/04/06-17:32:32.595 bb522 Level-0 table #319: started
+2021/04/06-17:32:32.603 bb522 Level-0 table #319: 364591 bytes OK
+2021/04/06-17:32:32.610 bb522 Delete type=0 #316

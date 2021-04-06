@@ -1,0 +1,12 @@
+2021/04/06-13:41:14.554 4a4c Reusing MANIFEST /home/marcos/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/chrome-extension_iaiomicjabeggjcfkbimgmglanimpnae_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/06-13:41:14.555 4a4c Recovering log #25
+2021/04/06-13:41:14.574 4a4c Reusing old log /home/marcos/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/chrome-extension_iaiomicjabeggjcfkbimgmglanimpnae_0.indexeddb.leveldb/000025.log 
+2021/04/06-14:26:23.450 32c16 Level-0 table #30: started
+2021/04/06-14:26:23.495 32c16 Level-0 table #30: 2624131 bytes OK
+2021/04/06-14:26:23.506 32c16 Delete type=0 #25
+2021/04/06-14:33:25.996 3d19d Compacting 1@1 + 1@2 files
+2021/04/06-14:33:26.056 3d19d Generated table #31@1: 3793 keys, 375289 bytes
+2021/04/06-14:33:26.056 3d19d Compacted 1@1 + 1@2 files => 375289 bytes
+2021/04/06-14:33:26.063 3d19d compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/04/06-14:33:26.063 3d19d Delete type=2 #30
+2021/04/06-14:33:26.063 3d19d Delete type=2 #27

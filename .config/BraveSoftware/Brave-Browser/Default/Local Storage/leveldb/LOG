@@ -1,0 +1,36 @@
+2021/04/06-13:41:14.171 3 Reusing MANIFEST /home/marcos/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2021/04/06-13:41:14.172 3 Recovering log #178
+2021/04/06-13:41:14.173 3 Reusing old log /home/marcos/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000178.log 
+2021/04/06-14:22:13.416 12 Level-0 table #182: started
+2021/04/06-14:22:13.452 12 Level-0 table #182: 18878 bytes OK
+2021/04/06-14:22:13.465 12 Delete type=0 #178
+2021/04/06-14:22:13.466 12 Compacting 4@0 + 1@1 files
+2021/04/06-14:22:13.552 12 Generated table #183@0: 735 keys, 1647169 bytes
+2021/04/06-14:22:13.553 12 Compacted 4@0 + 1@1 files => 1647169 bytes
+2021/04/06-14:22:13.561 12 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/04/06-14:22:13.563 12 Delete type=2 #175
+2021/04/06-14:22:13.564 12 Delete type=2 #177
+2021/04/06-14:22:13.564 12 Delete type=2 #179
+2021/04/06-14:22:13.564 12 Delete type=2 #182
+2021/04/06-14:22:13.564 12 Delete type=2 #173
+2021/04/06-16:22:28.297 1f Level-0 table #185: started
+2021/04/06-16:22:28.333 1f Level-0 table #185: 32886 bytes OK
+2021/04/06-16:22:28.341 1f Delete type=0 #181
+2021/04/06-16:52:51.692 12 Level-0 table #187: started
+2021/04/06-16:52:51.701 12 Level-0 table #187: 22961 bytes OK
+2021/04/06-16:52:51.711 12 Delete type=0 #184
+2021/04/06-16:58:34.131 2a Level-0 table #189: started
+2021/04/06-16:58:34.166 2a Level-0 table #189: 34593 bytes OK
+2021/04/06-16:58:34.176 2a Delete type=0 #186
+2021/04/06-17:27:22.674 3b Level-0 table #191: started
+2021/04/06-17:27:22.686 3b Level-0 table #191: 165468 bytes OK
+2021/04/06-17:27:22.695 3b Delete type=0 #188
+2021/04/06-17:27:22.696 3b Compacting 4@0 + 1@1 files
+2021/04/06-17:27:22.744 3b Generated table #192@0: 787 keys, 1687896 bytes
+2021/04/06-17:27:22.744 3b Compacted 4@0 + 1@1 files => 1687896 bytes
+2021/04/06-17:27:22.751 3b compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/04/06-17:27:22.752 3b Delete type=2 #189
+2021/04/06-17:27:22.752 3b Delete type=2 #185
+2021/04/06-17:27:22.752 3b Delete type=2 #187
+2021/04/06-17:27:22.752 3b Delete type=2 #191
+2021/04/06-17:27:22.753 3b Delete type=2 #183

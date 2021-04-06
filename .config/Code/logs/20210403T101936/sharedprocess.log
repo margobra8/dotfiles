@@ -1,0 +1,91 @@
+[2021-04-03 10:19:52.308] [sharedprocess] [info] Installing extension: aaron-bond.better-comments
+[2021-04-03 10:19:52.681] [sharedprocess] [info] Downloaded extension: aaron-bond.better-comments undefined
+[2021-04-03 10:19:52.703] [sharedprocess] [info] Extracted extension to /home/marcos/.vscode/extensions/.3ae561dd-85b7-4480-9bf8-ed3ea6849ce2: aaron-bond.better-comments
+[2021-04-03 10:19:52.710] [sharedprocess] [info] Renamed to /home/marcos/.vscode/extensions/aaron-bond.better-comments-2.1.0
+[2021-04-03 10:19:52.711] [sharedprocess] [info] Installation completed. aaron-bond.better-comments
+[2021-04-03 10:19:52.718] [sharedprocess] [info] Extensions installed successfully: aaron-bond.better-comments
+[2021-04-03 10:20:17.829] [sharedprocess] [info] Starting to clean up unused language packs.
+[2021-04-03 10:20:48.792] [sharedprocess] [info] Installing extension: akamud.vscode-theme-onedark
+[2021-04-03 10:20:49.278] [sharedprocess] [info] Downloaded extension: akamud.vscode-theme-onedark undefined
+[2021-04-03 10:20:49.324] [sharedprocess] [info] Extracted extension to /home/marcos/.vscode/extensions/.877ec116-74df-4b84-9974-7f4eaedf92ed: akamud.vscode-theme-onedark
+[2021-04-03 10:20:49.336] [sharedprocess] [info] Renamed to /home/marcos/.vscode/extensions/akamud.vscode-theme-onedark-2.2.3
+[2021-04-03 10:20:49.341] [sharedprocess] [info] Installation completed. akamud.vscode-theme-onedark
+[2021-04-03 10:20:49.349] [sharedprocess] [info] Extensions installed successfully: akamud.vscode-theme-onedark
+[2021-04-03 10:21:08.472] [sharedprocess] [info] Installing extension: davidanson.vscode-markdownlint
+[2021-04-03 10:21:08.955] [sharedprocess] [info] Downloaded extension: davidanson.vscode-markdownlint undefined
+[2021-04-03 10:21:09.019] [sharedprocess] [info] Extracted extension to /home/marcos/.vscode/extensions/.4843dd94-8c86-48e9-b60c-085719ad9989: davidanson.vscode-markdownlint
+[2021-04-03 10:21:09.038] [sharedprocess] [info] Renamed to /home/marcos/.vscode/extensions/davidanson.vscode-markdownlint-0.40.1
+[2021-04-03 10:21:09.045] [sharedprocess] [info] Installation completed. davidanson.vscode-markdownlint
+[2021-04-03 10:21:09.058] [sharedprocess] [info] Extensions installed successfully: davidanson.vscode-markdownlint
+[2021-04-03 10:21:20.198] [sharedprocess] [info] Installing extension: dbaeumer.vscode-eslint
+[2021-04-03 10:21:20.800] [sharedprocess] [info] Downloaded extension: dbaeumer.vscode-eslint undefined
+[2021-04-03 10:21:20.891] [sharedprocess] [info] Extracted extension to /home/marcos/.vscode/extensions/.5e243968-f519-4e85-bc85-7cb406d92152: dbaeumer.vscode-eslint
+[2021-04-03 10:21:20.906] [sharedprocess] [info] Renamed to /home/marcos/.vscode/extensions/dbaeumer.vscode-eslint-2.1.19
+[2021-04-03 10:21:20.910] [sharedprocess] [info] Installation completed. dbaeumer.vscode-eslint
+[2021-04-03 10:21:20.920] [sharedprocess] [info] Extensions installed successfully: dbaeumer.vscode-eslint
+[2021-04-03 10:21:28.364] [sharedprocess] [info] Installing extension: eamodio.gitlens
+[2021-04-03 10:21:28.901] [sharedprocess] [info] Downloaded extension: eamodio.gitlens undefined
+[2021-04-03 10:21:29.201] [sharedprocess] [info] Extracted extension to /home/marcos/.vscode/extensions/.6d9e7938-5861-44b7-89bf-7a280917026c: eamodio.gitlens
+[2021-04-03 10:21:29.228] [sharedprocess] [info] Renamed to /home/marcos/.vscode/extensions/eamodio.gitlens-11.3.0
+[2021-04-03 10:21:29.235] [sharedprocess] [info] Installation completed. eamodio.gitlens
+[2021-04-03 10:21:29.249] [sharedprocess] [info] Extensions installed successfully: eamodio.gitlens
+[2021-04-03 10:24:31.011] [sharedprocess] [info] Installing extension: esbenp.prettier-vscode
+[2021-04-03 10:24:33.481] [sharedprocess] [info] Downloaded extension: esbenp.prettier-vscode undefined
+[2021-04-03 10:24:33.695] [sharedprocess] [info] Extracted extension to /home/marcos/.vscode/extensions/.717af4f5-058b-4058-9465-e5acc2834c3d: esbenp.prettier-vscode
+[2021-04-03 10:24:33.703] [sharedprocess] [info] Renamed to /home/marcos/.vscode/extensions/esbenp.prettier-vscode-6.3.1
+[2021-04-03 10:24:33.704] [sharedprocess] [info] Installation completed. esbenp.prettier-vscode
+[2021-04-03 10:24:33.710] [sharedprocess] [info] Extensions installed successfully: esbenp.prettier-vscode
+[2021-04-03 10:24:46.640] [sharedprocess] [info] Installing extension: golang.go
+[2021-04-03 10:24:47.119] [sharedprocess] [info] Downloaded extension: golang.go undefined
+[2021-04-03 10:24:47.398] [sharedprocess] [info] Extracted extension to /home/marcos/.vscode/extensions/.38472984-cfb7-4572-95b0-a518c63d6582: golang.go
+[2021-04-03 10:24:47.426] [sharedprocess] [info] Renamed to /home/marcos/.vscode/extensions/golang.go-0.23.3
+[2021-04-03 10:24:47.437] [sharedprocess] [info] Installation completed. golang.go
+[2021-04-03 10:24:47.451] [sharedprocess] [info] Extensions installed successfully: golang.go
+[2021-04-03 10:25:00.921] [sharedprocess] [info] Installing extension: formulahendry.code-runner
+[2021-04-03 10:25:01.474] [sharedprocess] [info] Downloaded extension: formulahendry.code-runner undefined
+[2021-04-03 10:25:01.684] [sharedprocess] [info] Extracted extension to /home/marcos/.vscode/extensions/.5f63aa4c-adb2-4597-be64-60b3afa89685: formulahendry.code-runner
+[2021-04-03 10:25:01.692] [sharedprocess] [info] Renamed to /home/marcos/.vscode/extensions/formulahendry.code-runner-0.11.3
+[2021-04-03 10:25:01.694] [sharedprocess] [info] Installation completed. formulahendry.code-runner
+[2021-04-03 10:25:01.700] [sharedprocess] [info] Extensions installed successfully: formulahendry.code-runner
+[2021-04-03 10:25:28.644] [sharedprocess] [info] Installing extension: ms-python.python
+[2021-04-03 10:25:29.922] [sharedprocess] [info] Downloaded extension: ms-python.python undefined
+[2021-04-03 10:25:32.107] [sharedprocess] [info] Extracted extension to /home/marcos/.vscode/extensions/.d5c95b47-8e44-4456-af73-4c9970737db8: ms-python.python
+[2021-04-03 10:25:32.159] [sharedprocess] [info] Renamed to /home/marcos/.vscode/extensions/ms-python.python-2021.3.680753044
+[2021-04-03 10:25:32.163] [sharedprocess] [info] Installation completed. ms-python.python
+[2021-04-03 10:25:32.716] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter
+[2021-04-03 10:25:34.615] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter undefined
+[2021-04-03 10:25:35.294] [sharedprocess] [info] Extracted extension to /home/marcos/.vscode/extensions/.b7a8130d-e289-4712-a3d4-198c7a16f6ea: ms-toolsai.jupyter
+[2021-04-03 10:25:35.322] [sharedprocess] [info] Renamed to /home/marcos/.vscode/extensions/ms-toolsai.jupyter-2021.5.702919634
+[2021-04-03 10:25:35.325] [sharedprocess] [info] Installation completed. ms-toolsai.jupyter
+[2021-04-03 10:25:35.334] [sharedprocess] [info] Extensions installed successfully: ms-toolsai.jupyter
+[2021-04-03 10:25:35.335] [sharedprocess] [info] Extensions installed successfully: ms-python.python
+[2021-04-03 10:26:03.266] [sharedprocess] [info] Installing extension: ms-vscode.cpptools
+[2021-04-03 10:26:03.888] [sharedprocess] [info] Downloaded extension: ms-vscode.cpptools undefined
+[2021-04-03 10:26:04.610] [sharedprocess] [info] Extracted extension to /home/marcos/.vscode/extensions/.8f92793c-fc34-479a-a953-2d4751c5fd34: ms-vscode.cpptools
+[2021-04-03 10:26:04.666] [sharedprocess] [info] Renamed to /home/marcos/.vscode/extensions/ms-vscode.cpptools-1.2.2
+[2021-04-03 10:26:04.678] [sharedprocess] [info] Installation completed. ms-vscode.cpptools
+[2021-04-03 10:26:04.691] [sharedprocess] [info] Extensions installed successfully: ms-vscode.cpptools
+[2021-04-03 10:26:34.578] [sharedprocess] [info] Installing extension: octref.vetur
+[2021-04-03 10:26:36.692] [sharedprocess] [info] Downloaded extension: octref.vetur undefined
+[2021-04-03 10:26:39.471] [sharedprocess] [info] Extracted extension to /home/marcos/.vscode/extensions/.86085a72-22b4-490a-843b-3ef900129d36: octref.vetur
+[2021-04-03 10:26:39.520] [sharedprocess] [info] Renamed to /home/marcos/.vscode/extensions/octref.vetur-0.33.1
+[2021-04-03 10:26:39.522] [sharedprocess] [info] Installation completed. octref.vetur
+[2021-04-03 10:26:39.528] [sharedprocess] [info] Extensions installed successfully: octref.vetur
+[2021-04-03 10:27:28.341] [sharedprocess] [info] Installing extension: plievone.vscode-template-literal-editor
+[2021-04-03 10:27:29.243] [sharedprocess] [info] Downloaded extension: plievone.vscode-template-literal-editor undefined
+[2021-04-03 10:27:29.478] [sharedprocess] [info] Extracted extension to /home/marcos/.vscode/extensions/.5b5ab10c-0c1a-4788-bf57-6265e900235e: plievone.vscode-template-literal-editor
+[2021-04-03 10:27:29.485] [sharedprocess] [info] Renamed to /home/marcos/.vscode/extensions/plievone.vscode-template-literal-editor-0.9.0
+[2021-04-03 10:27:29.486] [sharedprocess] [info] Installation completed. plievone.vscode-template-literal-editor
+[2021-04-03 10:27:29.492] [sharedprocess] [info] Extensions installed successfully: plievone.vscode-template-literal-editor
+[2021-04-03 10:28:36.429] [sharedprocess] [info] Installing extension: puorc.awesome-vhdl
+[2021-04-03 10:28:37.127] [sharedprocess] [info] Downloaded extension: puorc.awesome-vhdl undefined
+[2021-04-03 10:28:37.178] [sharedprocess] [info] Extracted extension to /home/marcos/.vscode/extensions/.07e96cf3-a261-4b89-9ff7-680027975700: puorc.awesome-vhdl
+[2021-04-03 10:28:37.189] [sharedprocess] [info] Renamed to /home/marcos/.vscode/extensions/puorc.awesome-vhdl-0.0.1
+[2021-04-03 10:28:37.193] [sharedprocess] [info] Installation completed. puorc.awesome-vhdl
+[2021-04-03 10:28:37.201] [sharedprocess] [info] Extensions installed successfully: puorc.awesome-vhdl
+[2021-04-03 10:29:18.376] [sharedprocess] [info] Installing extension: visualstudioexptteam.vscodeintellicode
+[2021-04-03 10:29:20.275] [sharedprocess] [info] Downloaded extension: visualstudioexptteam.vscodeintellicode undefined
+[2021-04-03 10:29:20.587] [sharedprocess] [info] Extracted extension to /home/marcos/.vscode/extensions/.0a414b5e-2c21-4ad5-9905-882c75fbeb71: visualstudioexptteam.vscodeintellicode
+[2021-04-03 10:29:20.595] [sharedprocess] [info] Renamed to /home/marcos/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.12
+[2021-04-03 10:29:20.596] [sharedprocess] [info] Installation completed. visualstudioexptteam.vscodeintellicode
+[2021-04-03 10:29:20.601] [sharedprocess] [info] Extensions installed successfully: visualstudioexptteam.vscodeintellicode

@@ -1,0 +1,7 @@
+2021/04/05-16:28:46.258 1c1855 Reusing MANIFEST /home/marcos/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_linuxize.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/05-16:28:46.258 1c1855 Recovering log #3
+2021/04/05-16:28:46.258 1c1855 Reusing old log /home/marcos/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_linuxize.com_0.indexeddb.leveldb/000003.log 
+2021/04/05-16:51:24.400 202e0f Level-0 table #5: started
+2021/04/05-16:51:24.434 202e0f Level-0 table #5: 8109 bytes OK
+2021/04/05-16:51:24.441 202e0f Delete type=0 #3
+2021/04/05-16:51:24.441 202e0f Manual compaction at level-0 from (begin) .. (end); will stop at (end)

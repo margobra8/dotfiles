@@ -1,0 +1,33 @@
+[2021-04-03 19:34:57.519] [sharedprocess] [info] Starting to clean up unused language packs.
+[2021-04-03 19:35:15.975] [sharedprocess] [info] Installing extension: iocave.customize-ui
+[2021-04-03 19:35:16.397] [sharedprocess] [info] Downloaded extension: iocave.customize-ui undefined
+[2021-04-03 19:35:16.425] [sharedprocess] [info] Extracted extension to /home/marcos/.vscode/extensions/.5b8d01ab-ec90-4ee0-8d7e-e7aa75b87eb5: iocave.customize-ui
+[2021-04-03 19:35:16.432] [sharedprocess] [info] Renamed to /home/marcos/.vscode/extensions/iocave.customize-ui-0.1.53
+[2021-04-03 19:35:16.433] [sharedprocess] [info] Installation completed. iocave.customize-ui
+[2021-04-03 19:35:16.639] [sharedprocess] [info] Installing extension: iocave.monkey-patch
+[2021-04-03 19:35:16.907] [sharedprocess] [info] Downloaded extension: iocave.monkey-patch undefined
+[2021-04-03 19:35:16.946] [sharedprocess] [info] Extracted extension to /home/marcos/.vscode/extensions/.990e45dd-86ef-4cd7-bd89-366187213dc6: iocave.monkey-patch
+[2021-04-03 19:35:16.954] [sharedprocess] [info] Renamed to /home/marcos/.vscode/extensions/iocave.monkey-patch-0.1.13
+[2021-04-03 19:35:16.958] [sharedprocess] [info] Installation completed. iocave.monkey-patch
+[2021-04-03 19:35:16.966] [sharedprocess] [info] Extensions installed successfully: iocave.monkey-patch
+[2021-04-03 19:35:16.969] [sharedprocess] [info] Extensions installed successfully: iocave.customize-ui
+[2021-04-03 19:35:40.970] [sharedprocess] [info] Uninstalling extension: iocave.customize-ui
+[2021-04-03 19:35:41.029] [sharedprocess] [info] Successfully uninstalled extension: iocave.customize-ui
+[2021-04-03 19:37:57.224] [sharedprocess] [info] Installing extension: be5invis.vscode-custom-css
+[2021-04-03 19:37:58.057] [sharedprocess] [info] Downloaded extension: be5invis.vscode-custom-css undefined
+[2021-04-03 19:37:58.223] [sharedprocess] [info] Extracted extension to /home/marcos/.vscode/extensions/.46ea2752-25c4-4153-8549-5fb87c6a6726: be5invis.vscode-custom-css
+[2021-04-03 19:37:58.230] [sharedprocess] [info] Renamed to /home/marcos/.vscode/extensions/be5invis.vscode-custom-css-5.0.2
+[2021-04-03 19:37:58.232] [sharedprocess] [info] Installation completed. be5invis.vscode-custom-css
+[2021-04-03 19:37:58.237] [sharedprocess] [info] Extensions installed successfully: be5invis.vscode-custom-css
+[2021-04-03 19:39:49.287] [sharedprocess] [info] Uninstalling extension: be5invis.vscode-custom-css
+[2021-04-03 19:39:49.340] [sharedprocess] [info] Successfully uninstalled extension: be5invis.vscode-custom-css
+[2021-04-03 19:40:01.032] [sharedprocess] [info] Installing extension: iocave.customize-ui
+[2021-04-03 19:40:01.051] [sharedprocess] [info] Downloaded extension: iocave.customize-ui undefined
+[2021-04-03 19:40:01.145] [sharedprocess] [info] Removed the extension from uninstalled list: iocave.customize-ui
+[2021-04-03 19:40:01.215] [sharedprocess] [info] Extensions installed successfully: iocave.customize-ui
+[2021-04-03 19:41:40.572] [sharedprocess] [info] Uninstalling extension: iocave.monkey-patch
+[2021-04-03 19:41:40.573] [sharedprocess] [error] Failed to uninstall extension: iocave.monkey-patch Cannot uninstall 'Monkey Patch' extension. 'Customize UI' extension depends on this.
+[2021-04-03 19:41:47.640] [sharedprocess] [info] Uninstalling extension: iocave.customize-ui
+[2021-04-03 19:41:47.704] [sharedprocess] [info] Successfully uninstalled extension: iocave.customize-ui
+[2021-04-03 19:41:55.598] [sharedprocess] [info] Uninstalling extension: iocave.monkey-patch
+[2021-04-03 19:41:55.652] [sharedprocess] [info] Successfully uninstalled extension: iocave.monkey-patch
