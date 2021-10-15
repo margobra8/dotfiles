@@ -1,4 +1,23 @@
-2021/03/29-21:33:10.686 190178 Reusing MANIFEST /home/marcos/.config/skypeforlinux/Local Storage/leveldb/MANIFEST-000001
-2021/03/29-21:35:31.711 194b6b Level-0 table #5: started
-2021/03/29-21:35:31.719 194b6b Level-0 table #5: 62466 bytes OK
-2021/03/29-21:35:31.727 194b6b Delete type=0 #3
+2021/10/06-17:49:34.060 345c8 Reusing MANIFEST /home/marcos/.config/skypeforlinux/Local Storage/leveldb/MANIFEST-000001
+2021/10/06-17:49:34.061 345c8 Recovering log #340
+2021/10/06-17:49:34.061 345c8 Level-0 table #343: started
+2021/10/06-17:49:34.094 345c8 Level-0 table #343: 84934 bytes OK
+2021/10/06-17:49:34.095 345c8 Recovering log #343
+2021/10/06-17:49:34.095 345c8 Reusing old log /home/marcos/.config/skypeforlinux/Local Storage/leveldb/000343.log 
+2021/10/06-17:49:34.102 345c8 Delete type=0 #340
+2021/10/06-17:49:34.102 345c8 Delete type=2 #344
+2021/10/06-18:48:37.068 352af Level-0 table #345: started
+2021/10/06-18:48:37.102 352af Level-0 table #345: 87157 bytes OK
+2021/10/06-18:48:37.107 352af Delete type=0 #343
+2021/10/06-19:50:20.956 35d90 Level-0 table #347: started
+2021/10/06-19:50:20.964 35d90 Level-0 table #347: 86533 bytes OK
+2021/10/06-19:50:20.972 35d90 Delete type=0 #344
+2021/10/06-19:50:20.973 35d90 Compacting 4@0 + 1@1 files
+2021/10/06-19:50:20.979 35d90 Generated table #348@0: 14 keys, 85575 bytes
+2021/10/06-19:50:20.979 35d90 Compacted 4@0 + 1@1 files => 85575 bytes
+2021/10/06-19:50:20.987 35d90 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/10/06-19:50:20.988 35d90 Delete type=2 #341
+2021/10/06-19:50:20.988 35d90 Delete type=2 #347
+2021/10/06-19:50:20.988 35d90 Delete type=2 #338
+2021/10/06-19:50:20.988 35d90 Delete type=2 #343
+2021/10/06-19:50:20.988 35d90 Delete type=2 #345

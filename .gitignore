@@ -1,0 +1,13 @@
+# Ignore everything
+*
+
+# But these
+!.gitignore
+!.config
+!wallpapers
+!.zshrc
+!.zshenv
+!xinitrc
+!.config
+!.gnupg/gpg*.conf
+!.Xresources

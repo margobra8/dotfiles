@@ -1,1 +1,18 @@
-2020/07/06-01:09:32.168 226a Reusing MANIFEST leveldb/MANIFEST-000001
+2021/09/30-14:25:37.790 1755 Reusing MANIFEST /home/marcos/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2021/09/30-14:25:37.791 1755 Recovering log #81
+2021/09/30-14:25:37.791 1755 Reusing old log /home/marcos/.config/discord/Local Storage/leveldb/000081.log 
+2021/09/30-14:41:05.586 1754 Level-0 table #85: started
+2021/09/30-14:41:05.619 1754 Level-0 table #85: 17403 bytes OK
+2021/09/30-14:41:05.627 1754 Delete type=0 #81
+2021/09/30-21:11:34.059 5eb4 Level-0 table #87: started
+2021/09/30-21:11:34.065 5eb4 Level-0 table #87: 17950 bytes OK
+2021/09/30-21:11:34.072 5eb4 Delete type=0 #84
+2021/09/30-21:11:34.072 5eb4 Compacting 4@0 + 1@1 files
+2021/09/30-21:11:34.077 5eb4 Generated table #88@0: 52 keys, 13490 bytes
+2021/09/30-21:11:34.077 5eb4 Compacted 4@0 + 1@1 files => 13490 bytes
+2021/09/30-21:11:34.084 5eb4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/09/30-21:11:34.085 5eb4 Delete type=2 #87
+2021/09/30-21:11:34.085 5eb4 Delete type=2 #78
+2021/09/30-21:11:34.085 5eb4 Delete type=2 #82
+2021/09/30-21:11:34.085 5eb4 Delete type=2 #80
+2021/09/30-21:11:34.085 5eb4 Delete type=2 #85

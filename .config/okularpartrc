@@ -1,2 +1,12 @@
+[$Version]
+update_info=okular.upd:annotation-toolbar,okular.upd:builtin-annotations
+
 [Main View]
-SplitterSizes=411,1505
+ShowLeftPanel=false
+SplitterSizes=139,795
+
+[Reviews]
+BuiltinAnnotationTools=<tool type="highlight" id="1" name="Yellow Highlighter" default="true"><engine type="TextSelector" color="#ffff00"><annotation type="Highlight" color="#ffffff00"/></engine></tool>,<tool type="underline" id="2"><engine type="TextSelector" color="#ff0000"><annotation type="Underline" color="#ffff0000"/></engine></tool>,<tool type="squiggly" id="3"><engine type="TextSelector" color="#ff0000"><annotation type="Squiggly" color="#ffff0000"/></engine></tool>,<tool type="strikeout" id="4"><engine type="TextSelector" color="#ff0000"><annotation type="StrikeOut" color="#ffff0000"/></engine></tool>,<tool type="typewriter" id="5" name="Insert Text" default="true"><engine type="PickPoint" block="true"><annotation textColor="#000000" type="Typewriter" color="#00ffffff" width="0"/></engine></tool>,<tool type="note-inline" id="6"><engine hoverIcon="tool-note-inline" type="PickPoint" color="#ffff00" block="true"><annotation textColor="#ff000000" type="FreeText" color="#ffffff00"/></engine></tool>,<tool type="note-linked" id="7"><engine hoverIcon="tool-note" type="PickPoint" color="#ffff00"><annotation icon="Note" type="Text" color="#ffffff00"/></engine></tool>,<tool type="ink" id="8"><engine type="SmoothLine" color="#ff0000"><annotation type="Ink" color="#ff0000" width="2"/></engine></tool>,<tool type="straight-line" id="9" name="Arrow"><engine points="2" type="PolyLine" color="#ff0000"><annotation type="Line" color="#ff0000" width="2" endStyle="3"/></engine></tool>,<tool type="straight-line" id="10"><engine points="2" type="PolyLine" color="#000000"><annotation type="Line" color="#ff000000" width="2"/></engine></tool>,<tool type="rectangle" id="11"><engine type="PickPoint" color="#ff0000" block="true"><annotation type="GeomSquare" color="#ffff0000" width="3"/></engine></tool>,<tool type="ellipse" id="12"><engine type="PickPoint" color="#00ffff" block="true"><annotation type="GeomCircle" color="#ff00ffff" width="3"/></engine></tool>,<tool type="polygon" id="13"><engine points="-1" type="PolyLine" color="#007eee"><annotation type="Line" color="#ff007eee" width="2"/></engine></tool>,<tool type="stamp" id="14"><engine size="64" type="PickPoint" block="true"><annotation type="Stamp"/></engine></tool>
+
+[Search]
+SearchCaseSensitive=true

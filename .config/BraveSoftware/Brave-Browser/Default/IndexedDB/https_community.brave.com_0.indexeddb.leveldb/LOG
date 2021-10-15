@@ -1,5 +1,15 @@
-2021/04/02-17:49:45.694 95681 Reusing MANIFEST /home/marcos/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_community.brave.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/04/02-17:50:27.888 95275 Level-0 table #5: started
-2021/04/02-17:50:27.921 95275 Level-0 table #5: 4254 bytes OK
-2021/04/02-17:50:27.929 95275 Delete type=0 #3
-2021/04/02-17:50:27.929 95275 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/04/14-00:59:29.459 1d83a9 Reusing MANIFEST /home/marcos/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_community.brave.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/14-00:59:29.459 1d83a9 Recovering log #7
+2021/04/14-00:59:29.459 1d83a9 Reusing old log /home/marcos/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_community.brave.com_0.indexeddb.leveldb/000007.log 
+2021/04/14-01:00:05.019 1db02d Level-0 table #12: started
+2021/04/14-01:00:05.052 1db02d Level-0 table #12: 4104 bytes OK
+2021/04/14-01:00:05.060 1db02d Delete type=0 #7
+2021/04/14-01:00:05.060 1db02d Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/04/14-01:00:05.060 1db02d Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01 \x03\x00\xf0\xbea\xd7\x8cwB\x00\x01<\x00d\x00i\x00s\x00c\x00o\x00u\x00r\x00s\x00e\x00-\x001\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00c\x00o\x00m\x00m\x00u\x00n\x00i\x00t\x00y\x00.\x00b\x00r\x00a\x00v\x00e\x00.\x00c\x00o\x00m\x00/\x00m\x00a\x00n\x00i\x00f\x00e\x00s\x00t\x00.\x00w\x00e\x00b\x00m\x00a\x00n\x00i\x00f\x00e\x00s\x00t' @ 308 : 1
+2021/04/14-01:00:05.060 1db02d Compacting 1@1 + 1@2 files
+2021/04/14-01:00:05.066 1db02d Generated table #13@1: 47 keys, 3026 bytes
+2021/04/14-01:00:05.066 1db02d Compacted 1@1 + 1@2 files => 3026 bytes
+2021/04/14-01:00:05.073 1db02d compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/04/14-01:00:05.073 1db02d Delete type=2 #9
+2021/04/14-01:00:05.073 1db02d Delete type=2 #12
+2021/04/14-01:00:05.073 1db02d Manual compaction at level-1 from '\x00\x01\x01 \x03\x00\xf0\xbea\xd7\x8cwB\x00\x01<\x00d\x00i\x00s\x00c\x00o\x00u\x00r\x00s\x00e\x00-\x001\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00c\x00o\x00m\x00m\x00u\x00n\x00i\x00t\x00y\x00.\x00b\x00r\x00a\x00v\x00e\x00.\x00c\x00o\x00m\x00/\x00m\x00a\x00n\x00i\x00f\x00e\x00s\x00t\x00.\x00w\x00e\x00b\x00m\x00a\x00n\x00i\x00f\x00e\x00s\x00t' @ 308 : 1 .. (end); will stop at (end)

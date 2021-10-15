@@ -13,5 +13,6 @@ verifcolor=ffffffff
 timecolor=ffffffff
 datecolor=ffffffff
 loginbox=00000066
-font="JetBrains Mono"
+font="IBM Plex Mono"
 locktext="Input password..."
+#lock_timeout=10

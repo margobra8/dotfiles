@@ -20,6 +20,10 @@ super + F1
 	alacritty -e zsh -c 'cat ~/.cache/wal/sequences; autoload -U colors && colors; lf'
 super + F2
 	pcmanfm
+super + F3
+	brave
+super + F4
+	alacritty -e zsh -c 'cat ~/.cache/wal/sequences; autoload -U colors && ncmpcpp'
 
 #
 # bspwm hotkeys
@@ -41,9 +45,9 @@ super + m
 super + y
 	bspc node newest.marked.local -n newest.!automatic.local
 
-# swap the current node and the biggest node
+# swap the current node and the biggest node in current desktop
 super + g
-	bspc node -s biggest
+	bspc node -s biggest.local
 
 #
 # state/flags
@@ -132,8 +136,8 @@ super + {Left,Down,Up,Right}
 #	scrot -s; \
 #	cd -
 
-{_,shift} + @Print
-	flameshot {screen -p ~/scrots,launcher}
+{_,shift,shift + ctrl} + @Print
+	flameshot {screen -p ~/scrots,gui,screen --clipboard}
 
 #shift + @Print
 #	cd ~/scrots; \
@@ -143,7 +147,7 @@ super + {Left,Down,Up,Right}
 
 # lock current session
 alt + shift + x
-    playerctl pause && betterlockscreen -r 1920x1080 -l blur
+    playerctl pause && betterlockscreen -r 1920x1080 -l dimblur
 
 # function keys and media keys
 XF86MonBrightness{Up,Down}

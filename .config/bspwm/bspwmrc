@@ -9,8 +9,6 @@ else
 fi
 }
 
-sxhkd &
-
 # xrandr configuration if external monitor is connected
 if [[ $(is_DP3_connected) == "true" ]]; then
    echo "DP3 monitor connected: calling xrandr with config"
@@ -21,9 +19,8 @@ fi
 # configure bspwm desktops based on the currently connected monitors 
 if [[ $(is_DP3_connected) == "true" ]]; then
    echo "DP3 connected desktops"
-   bspc monitor DP3 -d 1 2 3 4 5 
    bspc monitor eDP1 -d 6 7 8 9 10
-   bspc wm -O DP3 eDP1
+   bspc monitor DP3 -d 1 2 3 4 5 
 else
    bspc monitor eDP1 -d 1 2 3 4 5
 fi
@@ -47,11 +44,18 @@ bspc config gapless_monocle      true
 bspc config focus_follows_pointer true
 
 # make bspwm spawn certain programs in certain desktops
-bspc rule -a Gimp desktop='^8' state=floating follow=on
-bspc rule -a Brave-browser desktop='^2'
+#bspc rule -a Brave-browser desktop='^2'
+bspc rule -a Pavucontrol state=floating 
 
+# fix desktops index ordering
+if [[ $(is_DP3_connected) == "true" ]]; then
+   bspc wm -O DP3 eDP1
+fi
 
 # autostart
-$HOME/.config/polybar/launch.sh &
+#$HOME/.config/polybar/launch.sh &
+$HOME/.config/polybar/colorblocks/launch.sh &
+#$HOME/.scripts/locker &
 nm-applet &
 flameshot &
+

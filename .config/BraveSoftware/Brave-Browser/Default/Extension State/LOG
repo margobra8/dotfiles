@@ -1,15 +1,12 @@
-2021/04/06-13:41:15.503 49a1 Reusing MANIFEST /home/marcos/.config/BraveSoftware/Brave-Browser/Default/Extension State/MANIFEST-000001
-2021/04/06-13:41:15.504 49a1 Recovering log #15
-2021/04/06-13:41:15.507 49a1 Reusing old log /home/marcos/.config/BraveSoftware/Brave-Browser/Default/Extension State/000015.log 
-2021/04/06-17:45:54.791 ce59b Level-0 table #19: started
-2021/04/06-17:45:54.839 ce59b Level-0 table #19: 2172905 bytes OK
-2021/04/06-17:45:54.847 ce59b Delete type=0 #15
-2021/04/06-17:45:54.848 ce59b Compacting 4@0 + 1@1 files
-2021/04/06-17:45:54.873 ce59b Generated table #20@0: 7 keys, 20465 bytes
-2021/04/06-17:45:54.873 ce59b Compacted 4@0 + 1@1 files => 20465 bytes
-2021/04/06-17:45:54.880 ce59b compacted to: files[ 0 1 1 0 0 0 0 ]
-2021/04/06-17:45:54.880 ce59b Delete type=2 #10
-2021/04/06-17:45:54.880 ce59b Delete type=2 #13
-2021/04/06-17:45:54.880 ce59b Delete type=2 #8
-2021/04/06-17:45:54.880 ce59b Delete type=2 #16
-2021/04/06-17:45:54.880 ce59b Delete type=2 #19
+2021/10/15-14:11:32.712 57f Reusing MANIFEST /home/marcos/.config/BraveSoftware/Brave-Browser/Default/Extension State/MANIFEST-000001
+2021/10/15-14:11:32.713 57f Recovering log #307
+2021/10/15-14:11:32.731 57f Reusing old log /home/marcos/.config/BraveSoftware/Brave-Browser/Default/Extension State/000307.log 
+2021/10/15-17:00:05.639 13e1 Level-0 table #312: started
+2021/10/15-17:00:05.683 13e1 Level-0 table #312: 2292616 bytes OK
+2021/10/15-17:00:05.697 13e1 Delete type=0 #307
+2021/10/15-19:26:41.807 2ad5 Level-0 table #314: started
+2021/10/15-19:26:41.866 2ad5 Level-0 table #314: 2291328 bytes OK
+2021/10/15-19:26:41.883 2ad5 Delete type=0 #311
+2021/10/15-21:33:05.310 4ccf Level-0 table #316: started
+2021/10/15-21:33:05.350 4ccf Level-0 table #316: 2273461 bytes OK
+2021/10/15-21:33:05.362 4ccf Delete type=0 #313

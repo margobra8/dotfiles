@@ -1,27 +1,6 @@
-2021/04/06-13:41:14.266 3 Reusing MANIFEST /home/marcos/.config/BraveSoftware/Brave-Browser/Default/Session Storage/MANIFEST-000001
-2021/04/06-13:41:14.267 3 Recovering log #37
-2021/04/06-13:41:14.267 3 Reusing old log /home/marcos/.config/BraveSoftware/Brave-Browser/Default/Session Storage/000037.log 
-2021/04/06-17:03:21.344 2a Level-0 table #41: started
-2021/04/06-17:03:21.355 2a Level-0 table #41: 32101 bytes OK
-2021/04/06-17:03:21.362 2a Delete type=0 #37
-2021/04/06-17:03:42.867 2a Level-0 table #43: started
-2021/04/06-17:03:42.877 2a Level-0 table #43: 71903 bytes OK
-2021/04/06-17:03:42.888 2a Delete type=0 #40
-2021/04/06-17:41:18.183 41 Level-0 table #45: started
-2021/04/06-17:41:18.191 41 Level-0 table #45: 20970 bytes OK
-2021/04/06-17:41:18.202 41 Delete type=0 #42
-2021/04/06-17:41:18.203 41 Compacting 4@0 + 1@1 files
-2021/04/06-17:41:18.214 41 Generated table #46@0: 253 keys, 114074 bytes
-2021/04/06-17:41:18.214 41 Compacted 4@0 + 1@1 files => 114074 bytes
-2021/04/06-17:41:18.221 41 compacted to: files[ 0 1 0 0 0 0 0 ]
-2021/04/06-17:41:18.222 41 Delete type=2 #38
-2021/04/06-17:41:18.222 41 Delete type=2 #43
-2021/04/06-17:41:18.223 41 Delete type=2 #45
-2021/04/06-17:41:18.223 41 Delete type=2 #41
-2021/04/06-17:41:18.223 41 Delete type=2 #35
-2021/04/06-17:41:23.761 45 Level-0 table #48: started
-2021/04/06-17:41:23.768 45 Level-0 table #48: 53409 bytes OK
-2021/04/06-17:41:23.776 45 Delete type=0 #44
-2021/04/06-17:47:48.069 41 Level-0 table #50: started
-2021/04/06-17:47:48.075 41 Level-0 table #50: 24531 bytes OK
-2021/04/06-17:47:48.083 41 Delete type=0 #47
+2021/10/15-14:11:32.316 3 Reusing MANIFEST /home/marcos/.config/BraveSoftware/Brave-Browser/Default/Session Storage/MANIFEST-000001
+2021/10/15-14:11:32.317 3 Recovering log #768
+2021/10/15-14:11:32.318 3 Reusing old log /home/marcos/.config/BraveSoftware/Brave-Browser/Default/Session Storage/000768.log 
+2021/10/15-19:47:27.151 70 Level-0 table #773: started
+2021/10/15-19:47:27.187 70 Level-0 table #773: 17871 bytes OK
+2021/10/15-19:47:27.198 70 Delete type=0 #768

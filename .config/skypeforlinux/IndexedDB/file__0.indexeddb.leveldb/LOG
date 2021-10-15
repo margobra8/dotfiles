@@ -1,3 +1,21 @@
-2021/04/06-16:26:07.902 4d2dd Reusing MANIFEST /home/marcos/.config/skypeforlinux/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
-2021/04/06-16:26:07.903 4d2dd Recovering log #13
-2021/04/06-16:26:07.903 4d2dd Reusing old log /home/marcos/.config/skypeforlinux/IndexedDB/file__0.indexeddb.leveldb/000013.log 
+2021/10/14-17:04:39.394 1b0a4 Reusing MANIFEST /home/marcos/.config/skypeforlinux/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2021/10/14-17:04:39.394 1b0a4 Recovering log #186
+2021/10/14-17:04:39.407 1b0a4 Reusing old log /home/marcos/.config/skypeforlinux/IndexedDB/file__0.indexeddb.leveldb/000186.log 
+2021/10/14-17:04:39.536 1b0a4 Level-0 table #191: started
+2021/10/14-17:04:39.568 1b0a4 Level-0 table #191: 1431799 bytes OK
+2021/10/14-17:04:39.578 1b0a4 Delete type=0 #186
+2021/10/14-17:04:39.588 1b0a4 Compacting 1@1 + 1@2 files
+2021/10/14-17:04:39.639 1b0a4 Generated table #192@1: 16924 keys, 2114311 bytes
+2021/10/14-17:04:39.639 1b0a4 Compacted 1@1 + 1@2 files => 2114311 bytes
+2021/10/14-17:04:39.646 1b0a4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/10/14-18:22:25.003 1c388 Level-0 table #194: started
+2021/10/14-18:22:25.030 1c388 Level-0 table #194: 1572710 bytes OK
+2021/10/14-18:22:25.038 1c388 Delete type=0 #190
+2021/10/14-18:22:25.038 1c388 Delete type=2 #188
+2021/10/14-18:22:25.038 1c388 Delete type=2 #191
+2021/10/14-18:46:58.578 1cbd4 Compacting 1@1 + 1@2 files
+2021/10/14-18:46:58.642 1cbd4 Generated table #195@1: 14567 keys, 1958303 bytes
+2021/10/14-18:46:58.642 1cbd4 Compacted 1@1 + 1@2 files => 1958303 bytes
+2021/10/14-18:46:58.649 1cbd4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/10/14-18:46:58.649 1cbd4 Delete type=2 #192
+2021/10/14-18:46:58.649 1cbd4 Delete type=2 #194

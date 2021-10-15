@@ -3,10 +3,73 @@
     "openedPathsList": {
         "entries": [
             {
+                "folderUri": "file:///home/marcos/repos/wiki"
+            },
+            {
+                "folderUri": "file:///home/marcos/OneDrive/home/ETSIT/tercero/irin/o1/memoria"
+            },
+            {
+                "folderUri": "file:///home/marcos/OneDrive/home/ETSIT/tercero/irin/o2/sim/code/training/stdev/irsim-ANN1"
+            },
+            {
+                "folderUri": "file:///home/marcos/OneDrive/home/ETSIT/tercero/irin/o2/sim/code/automations"
+            },
+            {
+                "folderUri": "file:///home/marcos/OneDrive/home/ETSIT/tercero/irin/o2/sim/code/training/stdev"
+            },
+            {
+                "folderUri": "file:///home/marcos/OneDrive/home/ETSIT/tercero/irin/o2/sim/code/irsim2021"
+            },
+            {
+                "folderUri": "file:///home/marcos/OneDrive/home/ETSIT/tercero/core/Entrega9_groups/quiz_2020"
+            },
+            {
+                "folderUri": "file:///home/marcos/OneDrive/home/ETSIT/tercero/core/Entrega8_randomplay/quiz_2020"
+            },
+            {
+                "folderUri": "file:///home/marcos/escape_room_core_2020/app"
+            },
+            {
+                "folderUri": "file:///home/marcos/escape_room_core_2020"
+            },
+            {
+                "folderUri": "file:///home/marcos/test"
+            },
+            {
+                "folderUri": "file:///home/marcos/OneDrive/home/ETSIT/tercero/core/tests_moodle_env"
+            },
+            {
+                "folderUri": "file:///home/marcos/OneDrive/home/ETSIT/tercero/irin/o1/dev/irsim2021"
+            },
+            {
+                "folderUri": "file:///home/marcos/OneDrive/home/ETSIT/tercero/irin/o1/dev/irsim2021-v6"
+            },
+            {
+                "folderUri": "file:///home/marcos/OneDrive/home/ETSIT/tercero/core/Entrega6_sockets"
+            },
+            {
+                "folderUri": "file:///home/marcos/OneDrive/home/ETSIT/tercero/core/Entrega2_MVC_Cliente"
+            },
+            {
+                "folderUri": "file:///home/marcos/OneDrive/home/ETSIT/tercero/core/Entrega5_BBDD"
+            },
+            {
+                "folderUri": "file:///home/marcos/OneDrive/home/ETSIT/tercero/core/Entrega3_juego"
+            },
+            {
+                "folderUri": "file:///home/marcos/OneDrive/home/ETSIT/tercero/core/Entrega4_ajax"
+            },
+            {
+                "folderUri": "file:///home/marcos/OneDrive/home/ETSIT/tercero/core/Entrega1_calculadora"
+            },
+            {
+                "folderUri": "file:///home/marcos/OneDrive/home/ETSIT/tercero/irin/v1"
+            },
+            {
                 "folderUri": "file:///home/marcos/.config"
             },
             {
-                "folderUri": "file:///home/marcos/core/Entrega5_BBDD"
+                "fileUri": "file:///home/marcos/Desktop/esnupm_esncards_email.html"
             }
         ]
     },
@@ -38,7 +101,7 @@
                         "label": "Open Wor&&kspace..."
                     },
                     {
-                        "id": "submenuitem.27",
+                        "id": "submenuitem.30",
                         "label": "Open &&Recent",
                         "submenu": {
                             "items": [
@@ -54,24 +117,125 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "fsPath": "/home/marcos/.config",
-                                        "external": "file:///home/marcos/.config",
-                                        "path": "/home/marcos/.config",
+                                        "fsPath": "/home/marcos/repos/wiki",
+                                        "external": "file:///home/marcos/repos/wiki",
+                                        "path": "/home/marcos/repos/wiki",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/.config"
+                                    "label": "~/repos/wiki"
                                 },
                                 {
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/marcos/core/Entrega5_BBDD",
-                                        "path": "/home/marcos/core/Entrega5_BBDD",
+                                        "external": "file:///home/marcos/OneDrive/home/ETSIT/tercero/irin/o1/memoria",
+                                        "path": "/home/marcos/OneDrive/home/ETSIT/tercero/irin/o1/memoria",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/core/Entrega5_BBDD"
+                                    "label": "~/OneDrive/home/ETSIT/tercero/irin/o1/memoria"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/marcos/OneDrive/home/ETSIT/tercero/irin/o2/sim/code/training/stdev/irsim-ANN1",
+                                        "path": "/home/marcos/OneDrive/home/ETSIT/tercero/irin/o2/sim/code/training/stdev/irsim-ANN1",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/OneDrive/home/ETSIT/tercero/irin/o2/sim/code/training/stdev/irsim-ANN1"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/marcos/OneDrive/home/ETSIT/tercero/irin/o2/sim/code/automations",
+                                        "path": "/home/marcos/OneDrive/home/ETSIT/tercero/irin/o2/sim/code/automations",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/OneDrive/home/ETSIT/tercero/irin/o2/sim/code/automations"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/marcos/OneDrive/home/ETSIT/tercero/irin/o2/sim/code/training/stdev",
+                                        "path": "/home/marcos/OneDrive/home/ETSIT/tercero/irin/o2/sim/code/training/stdev",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/OneDrive/home/ETSIT/tercero/irin/o2/sim/code/training/stdev"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/marcos/OneDrive/home/ETSIT/tercero/irin/o2/sim/code/irsim2021",
+                                        "path": "/home/marcos/OneDrive/home/ETSIT/tercero/irin/o2/sim/code/irsim2021",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/OneDrive/home/ETSIT/tercero/irin/o2/sim/code/irsim2021"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/marcos/OneDrive/home/ETSIT/tercero/core/Entrega9_groups/quiz_2020",
+                                        "path": "/home/marcos/OneDrive/home/ETSIT/tercero/core/Entrega9_groups/quiz_2020",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/OneDrive/home/ETSIT/tercero/core/Entrega9_groups/quiz_2020"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/marcos/OneDrive/home/ETSIT/tercero/core/Entrega8_randomplay/quiz_2020",
+                                        "path": "/home/marcos/OneDrive/home/ETSIT/tercero/core/Entrega8_randomplay/quiz_2020",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/OneDrive/home/ETSIT/tercero/core/Entrega8_randomplay/quiz_2020"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/marcos/escape_room_core_2020/app",
+                                        "path": "/home/marcos/escape_room_core_2020/app",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/escape_room_core_2020/app"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/marcos/escape_room_core_2020",
+                                        "path": "/home/marcos/escape_room_core_2020",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/escape_room_core_2020"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "path": "/home/marcos/Desktop/esnupm_esncards_email.html",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Desktop/esnupm_esncards_email.html"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -102,6 +266,10 @@
                         "label": "Save Workspace As..."
                     },
                     {
+                        "id": "workbench.action.duplicateWorkspaceInNewWindow",
+                        "label": "Duplicate Workspace"
+                    },
+                    {
                         "id": "vscode.menubar.separator"
                     },
                     {
@@ -125,7 +293,7 @@
                         "label": "A&&uto Save"
                     },
                     {
-                        "id": "submenuitem.26",
+                        "id": "submenuitem.29",
                         "label": "&&Preferences",
                         "submenu": {
                             "items": [
@@ -136,6 +304,10 @@
                                 {
                                     "id": "settings.filterByOnline",
                                     "label": "&&Online Services Settings"
+                                },
+                                {
+                                    "id": "settings.filterByTelemetry",
+                                    "label": "Telemetry Settings"
                                 },
                                 {
                                     "id": "workbench.view.extensions",
@@ -232,6 +404,22 @@
                     {
                         "id": "editor.action.clipboardCopyAction",
                         "label": "&&Copy"
+                    },
+                    {
+                        "id": "submenuitem.23",
+                        "label": "Copy As",
+                        "submenu": {
+                            "items": [
+                                {
+                                    "id": "gitlens.copyRemoteFileUrlToClipboard",
+                                    "label": "Copy Remote File Url"
+                                },
+                                {
+                                    "id": "gitlens.copyRemoteFileUrlFrom",
+                                    "label": "Copy Remote File Url From..."
+                                }
+                            ]
+                        }
                     },
                     {
                         "id": "editor.action.clipboardPasteAction",
@@ -367,7 +555,7 @@
                         "id": "vscode.menubar.separator"
                     },
                     {
-                        "id": "submenuitem.17",
+                        "id": "submenuitem.20",
                         "label": "&&Appearance",
                         "submenu": {
                             "items": [
@@ -407,13 +595,14 @@
                                     "checked": true
                                 },
                                 {
-                                    "id": "workbench.action.toggleEditorVisibility",
-                                    "label": "Show &&Editor Area",
+                                    "id": "workbench.action.togglePanel",
+                                    "label": "Show &&Panel",
                                     "checked": true
                                 },
                                 {
-                                    "id": "workbench.action.togglePanel",
-                                    "label": "Show &&Panel"
+                                    "id": "workbench.action.toggleEditorVisibility",
+                                    "label": "Show &&Editor Area",
+                                    "checked": true
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -449,7 +638,7 @@
                         }
                     },
                     {
-                        "id": "submenuitem.24",
+                        "id": "submenuitem.27",
                         "label": "Editor &&Layout",
                         "submenu": {
                             "items": [
@@ -561,7 +750,8 @@
                     },
                     {
                         "id": "editor.action.toggleWordWrap",
-                        "label": "Toggle &&Word Wrap"
+                        "label": "&&Word Wrap",
+                        "checked": true
                     },
                     {
                         "id": "editor.action.toggleMinimap",
@@ -603,7 +793,7 @@
                         "id": "vscode.menubar.separator"
                     },
                     {
-                        "id": "submenuitem.29",
+                        "id": "submenuitem.32",
                         "label": "Switch &&Editor",
                         "submenu": {
                             "items": [
@@ -652,7 +842,7 @@
                         }
                     },
                     {
-                        "id": "submenuitem.30",
+                        "id": "submenuitem.33",
                         "label": "Switch &&Group",
                         "submenu": {
                             "items": [
@@ -738,28 +928,23 @@
                     },
                     {
                         "id": "editor.action.revealDefinition",
-                        "label": "Go to &&Definition",
-                        "enabled": false
+                        "label": "Go to &&Definition"
                     },
                     {
                         "id": "editor.action.revealDeclaration",
-                        "label": "Go to &&Declaration",
-                        "enabled": false
+                        "label": "Go to &&Declaration"
                     },
                     {
                         "id": "editor.action.goToTypeDefinition",
-                        "label": "Go to &&Type Definition",
-                        "enabled": false
+                        "label": "Go to &&Type Definition"
                     },
                     {
                         "id": "editor.action.goToImplementation",
-                        "label": "Go to &&Implementations",
-                        "enabled": false
+                        "label": "Go to &&Implementations"
                     },
                     {
                         "id": "editor.action.goToReferences",
-                        "label": "Go to &&References",
-                        "enabled": false
+                        "label": "Go to &&References"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -859,7 +1044,7 @@
                         "label": "Toggle &&Breakpoint"
                     },
                     {
-                        "id": "submenuitem.25",
+                        "id": "submenuitem.28",
                         "label": "&&New Breakpoint",
                         "submenu": {
                             "items": [
@@ -914,8 +1099,7 @@
                     },
                     {
                         "id": "workbench.action.terminal.split",
-                        "label": "&&Split Terminal",
-                        "enabled": false
+                        "label": "&&Split Terminal"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -970,12 +1154,8 @@
             "Help": {
                 "items": [
                     {
-                        "id": "workbench.action.showWelcomePage",
-                        "label": "&&Welcome"
-                    },
-                    {
-                        "id": "workbench.action.showGettingStarted",
-                        "label": "Getting Started"
+                        "id": "workbench.action.openWalkthrough",
+                        "label": "Welcome"
                     },
                     {
                         "id": "workbench.action.showInteractivePlayground",
@@ -1119,8 +1299,8 @@
                 "userSettingsLabel": "ctrl+k f"
             },
             "workbench.action.closeWindow": {
-                "label": "Ctrl+W",
-                "userSettingsLabel": "ctrl+w"
+                "label": "Alt+F4",
+                "userSettingsLabel": "alt+f4"
             },
             "workbench.action.quit": {
                 "label": "Ctrl+Q",
@@ -1203,12 +1383,12 @@
                 "userSettingsLabel": "alt+down"
             },
             "editor.action.insertCursorAbove": {
-                "label": "Shift+Alt+Up",
-                "userSettingsLabel": "shift+alt+up"
+                "label": "Ctrl+Shift+Up",
+                "userSettingsLabel": "ctrl+shift+up"
             },
             "editor.action.insertCursorBelow": {
-                "label": "Shift+Alt+Down",
-                "userSettingsLabel": "shift+alt+down"
+                "label": "Ctrl+Shift+Down",
+                "userSettingsLabel": "ctrl+shift+down"
             },
             "editor.action.insertCursorAtEndOfEachLineSelected": {
                 "label": "Shift+Alt+I",
@@ -1264,6 +1444,10 @@
             "workbench.view.explorer": {
                 "label": "Ctrl+Shift+E",
                 "userSettingsLabel": "ctrl+shift+e"
+            },
+            "workbench.view.search": {
+                "label": "Ctrl+Shift+F",
+                "userSettingsLabel": "ctrl+shift+f"
             },
             "workbench.view.scm": {
                 "label": "Ctrl+Shift+G G",
@@ -1478,19 +1662,42 @@
         }
     },
     "theme": "vs-dark",
-    "themeBackground": "#302222",
+    "themeBackground": "#011627",
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/marcos/.config",
-            "backupPath": "/home/marcos/.config/Code/Backups/bbc5bf07f04111357a50b48941b72ed5",
+            "folder": "file:///home/marcos/repos/wiki",
+            "backupPath": "/home/marcos/.config/Code/Backups/47ffa3b86e70b85cd59bad33df2c9c96",
             "uiState": {
-                "mode": 0,
-                "x": 1277,
-                "y": 310,
-                "width": 1024,
-                "height": 768
+                "mode": 1,
+                "x": 1934,
+                "y": 65,
+                "width": 1892,
+                "height": 1001
             }
         },
         "openedWindows": []
+    },
+    "pickerWorkingDir": "/home/marcos/Desktop",
+    "windowSplash": {
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#d6deeb",
+            "background": "#011627",
+            "editorBackground": "#011627",
+            "titleBarBackground": "#011627",
+            "activityBarBackground": "#011627",
+            "sideBarBackground": "#011627",
+            "statusBarBackground": "#011627",
+            "statusBarNoFolderBackground": "#011627"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 0,
+            "activityBarWidth": 48,
+            "sideBarWidth": 298,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
     }
 }

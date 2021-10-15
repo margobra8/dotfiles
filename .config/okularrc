@@ -2,28 +2,37 @@
 FullScreen=false
 
 [MainWindow]
-DP3 eDP1 Height 1920x1080=986
-DP3 eDP1 Width 1920x1080=900
-DP3 eDP1 Window-Maximized 1920x1080=true
-DP3 eDP1 XPosition 1920x1080=0
-DP3 eDP1 YPosition 1920x1080=20
+DP3 eDP1 Height 1920x1080=1001
+DP3 eDP1 Width 1920x1080=938
+DP3 eDP1 XPosition 1920x1080=2888
+DP3 eDP1 YPosition 1920x1080=65
 Height 1080=1052
-State=AAAA/wAAAAD9AAAAAAAAB4AAAAPmAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAIgBhAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAA==
+State=AAAA/wAAAAD9AAAAAAAAA6oAAAOrAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAIgBhAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHIBAAADM/////8AAAAAAAAAAA==
 ToolBarsMovable=Disabled
 Width 1920=900
-eDP1 Height 1920x1080=986
-eDP1 Width 1920x1080=900
-eDP1 XPosition 1920x1080=2
-eDP1 YPosition 1920x1080=63
+eDP1 Height 1920x1080=1008
+eDP1 Width 1920x1080=938
+eDP1 XPosition 1920x1080=968
+eDP1 YPosition 1920x1080=36
 
 [Recent Files]
-File1[$e]=$HOME/walbox/README.md
-File2[$e]=$HOME/Downloads/C2-converted.pdf
-File3[$e]=$HOME/Downloads/Entregable 1.pdf
-File4[$e]=$HOME/.cache/zsh/history
-File5[$e]=$HOME/Downloads/CORE_09_MOD_9_BBDD_publicado_v6.pdf
-Name1[$e]=README.md
-Name2[$e]=C2-converted.pdf
-Name3[$e]=Entregable 1.pdf
-Name4[$e]=history
-Name5[$e]=CORE_09_MOD_9_BBDD_publicado_v6.pdf
+File1[$e]=$HOME/OneDrive/home/ETSIT/cuarto/feel/datasheetFEEL2122/buzzer.pdf
+File10[$e]=$HOME/Downloads/Kelson/Kelson/Installation Guide/How to install your Fontfabric Fonts.pdf
+File2[$e]=$HOME/OneDrive/home/ETSIT/cuarto/feel/datasheetFEEL2122/coinBattery.pdf
+File3[$e]=$HOME/OneDrive/home/ETSIT/cuarto/feel/datasheetFEEL2122/swra117d.pdf
+File4[$e]=$HOME/OneDrive/home/ETSIT/cuarto/feel/datasheetFEEL2122/tidueg6a.pdf
+File5[$e]=$HOME/OneDrive/home/ETSIT/cuarto/feel/datasheetFEEL2122/tps61099.pdf
+File6[$e]=$HOME/Downloads/Telegram Desktop/LISTA CLUBES.pdf
+File7[$e]=$HOME/OneDrive/home/ETSIT/cuarto/seam/Tema 1_V1r/Tema 1-1_V1r.pdf
+File8[$e]=$HOME/OneDrive/home/ETSIT/cuarto/seam/Tema 1_V1r/Tema 1-2_V0r.pdf
+File9[$e]=$HOME/Downloads/CVOct21__en_gb_mgb.pdf
+Name1[$e]=buzzer.pdf
+Name10[$e]=How to install your Fontfabric Fonts.pdf
+Name2[$e]=coinBattery.pdf
+Name3[$e]=swra117d.pdf
+Name4[$e]=tidueg6a.pdf
+Name5[$e]=tps61099.pdf
+Name6[$e]=LISTA CLUBES.pdf
+Name7[$e]=Tema 1-1_V1r.pdf
+Name8[$e]=Tema 1-2_V0r.pdf
+Name9[$e]=CVOct21__en_gb_mgb.pdf

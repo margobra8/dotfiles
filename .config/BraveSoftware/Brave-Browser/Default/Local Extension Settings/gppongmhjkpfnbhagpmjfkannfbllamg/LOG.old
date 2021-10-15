@@ -1,15 +1,3 @@
-2021/04/05-17:34:35.826 2ab25e Reusing MANIFEST /home/marcos/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/gppongmhjkpfnbhagpmjfkannfbllamg/MANIFEST-000001
-2021/04/05-17:34:35.827 2ab25e Recovering log #298
-2021/04/05-17:34:35.831 2ab25e Reusing old log /home/marcos/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/gppongmhjkpfnbhagpmjfkannfbllamg/000298.log 
-2021/04/05-17:34:50.867 2ab357 Level-0 table #302: started
-2021/04/05-17:34:50.901 2ab357 Level-0 table #302: 350029 bytes OK
-2021/04/05-17:34:50.909 2ab357 Delete type=0 #298
-2021/04/05-17:34:50.909 2ab357 Compacting 4@0 + 1@1 files
-2021/04/05-17:34:50.922 2ab357 Generated table #303@0: 2 keys, 38001 bytes
-2021/04/05-17:34:50.922 2ab357 Compacted 4@0 + 1@1 files => 38001 bytes
-2021/04/05-17:34:50.929 2ab357 compacted to: files[ 0 1 1 0 0 0 0 ]
-2021/04/05-17:34:50.929 2ab357 Delete type=2 #299
-2021/04/05-17:34:50.929 2ab357 Delete type=2 #297
-2021/04/05-17:34:50.929 2ab357 Delete type=2 #293
-2021/04/05-17:34:50.929 2ab357 Delete type=2 #302
-2021/04/05-17:34:50.929 2ab357 Delete type=2 #295
+2021/10/15-02:32:46.898 57b Reusing MANIFEST /home/marcos/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/gppongmhjkpfnbhagpmjfkannfbllamg/MANIFEST-000001
+2021/10/15-02:32:46.899 57b Recovering log #3115
+2021/10/15-02:32:46.901 57b Reusing old log /home/marcos/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/gppongmhjkpfnbhagpmjfkannfbllamg/003115.log 

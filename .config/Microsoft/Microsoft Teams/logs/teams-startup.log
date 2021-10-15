@@ -1,21 +1,17 @@
 Error while parsing hooks JSON. Error: "ENOENT: no such file or directory, open '/home/marcos/.config/Microsoft/Microsoft Teams/hooks.json'"
-(electron) The default value of app.allowRendererProcessReuse is deprecated, it is currently "false".  It will change to be "true" in Electron 9.  For more information please check https://github.com/electron/electron/issues/18397
-(node:795198) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 ecsSettingsUpdated listeners added to [EventEmitter]. Use emitter.setMaxListeners() to increase limit
-(node:795198) ProtocolDeprecateCallback: The callback argument of protocol module APIs is no longer needed.
-(node:795198) ProtocolDeprecateCallback: The callback argument of protocol module APIs is no longer needed.
-(node:795198) ProtocolDeprecateCallback: The callback argument of protocol module APIs is no longer needed.
-(node:795198) ProtocolDeprecateCallback: The callback argument of protocol module APIs is no longer needed.
-(node:795198) ProtocolDeprecateCallback: The callback argument of protocol module APIs is no longer needed.
-(node:795198) ProtocolDeprecateCallback: The callback argument of protocol module APIs is no longer needed.
-(node:795198) ProtocolDeprecateCallback: The callback argument of protocol module APIs is no longer needed.
-(node:795198) ProtocolDeprecateCallback: The callback argument of protocol module APIs is no longer needed.
-(node:795198) ProtocolDeprecateCallback: The callback argument of protocol module APIs is no longer needed.
-(node:795198) ProtocolDeprecateCallback: The callback argument of protocol module APIs is no longer needed.
-(node:795198) ProtocolDeprecateCallback: The callback argument of protocol module APIs is no longer needed.
-(node:795198) ProtocolDeprecateCallback: The callback argument of protocol module APIs is no longer needed.
-(node:795198) ProtocolDeprecateCallback: The callback argument of protocol module APIs is no longer needed.
-(node:795198) ProtocolDeprecateCallback: The callback argument of protocol module APIs is no longer needed.
-(node:795198) ProtocolDeprecateCallback: The callback argument of protocol module APIs is no longer needed.
-(node:795198) ProtocolDeprecateCallback: The callback argument of protocol module APIs is no longer needed.
-(node:795198) ProtocolDeprecateCallback: The callback argument of protocol module APIs is no longer needed.
-(node:795198) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 appInitialized listeners added to [EventEmitter]. Use emitter.setMaxListeners() to increase limit
+(node:48264) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(node:48264) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 ecsSettingsUpdated listeners added to [EventEmitter]. Use emitter.setMaxListeners() to increase limit
+(node:48264) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 appInitialized listeners added to [EventEmitter]. Use emitter.setMaxListeners() to increase limit
+(node:48264) UnhandledPromiseRejectionWarning: Error: LocalStorageService: key or value not defined
+    at m.<anonymous> (/usr/share/teams/resources/app.asar/main.bundle.js:1:375928)
+    at Generator.next (<anonymous>)
+    at /usr/share/teams/resources/app.asar/main.bundle.js:1:374186
+    at new Promise (<anonymous>)
+    at i (/usr/share/teams/resources/app.asar/main.bundle.js:1:373931)
+    at m.setValue (/usr/share/teams/resources/app.asar/main.bundle.js:1:375870)
+    at t.AppLevel.set (/usr/share/teams/resources/app.asar/main.bundle.js:16:667207)
+    at t.AppLevel.get (/usr/share/teams/resources/app.asar/main.bundle.js:16:667165)
+    at /usr/share/teams/resources/app.asar/main.bundle.js:16:673433
+    at Array.reduce (<anonymous>)
+(node:48264) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 1)
+(node:48264) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.

@@ -1,8 +1,8 @@
 {
    "5faHDJI+KAQlqgn40C2m394PG8QFl5XrhFETgFrA+mo=": {
-      "expiry": 1649255160.559046,
+      "expiry": 1664708278.877125,
       "mode": "force-https",
       "sts_include_subdomains": true,
-      "sts_observed": 1617719160.559052
+      "sts_observed": 1633172278.877131
    }
 }

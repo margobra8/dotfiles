@@ -1,12 +1,39 @@
 {
     "telemetry.enableTelemetry": false,
-    "workbench.colorTheme": "Wal Bordered",
+    "workbench.colorTheme": "Night Owl (No Italics)",
     "editor.suggestSelection": "first",
     "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
-    "editor.fontFamily": "'Terminus (TTF)','monospace', monospace",
+    "editor.fontFamily": "'Terminus (TTF)'",
     "[javascript]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
+    "customizeUI.activityBarHideSettings": true,
     "editor.fontSize": 16,
-    "customizeUI.activityBarHideSettings": true
+    "editor.fontWeight": null,
+    "terminal.external.linuxExec": "alacritty",
+    "terminal.explorerKind": "external",
+    "terminal.integrated.fontFamily": "'Terminus (TTF)'",
+    "liveshare.anonymousGuestApproval": "accept",
+    "[cpp]": {
+        "editor.defaultFormatter": "ms-vscode.cpptools"
+    },
+    "terminal.integrated.fontSize": 16,
+    "debug.console.fontSize": 16,
+    "debug.console.fontFamily": "'Terminus (TTF)'",
+    "editor.inlineHints.fontFamily": "editor",
+    "editor.codeLensFontFamily": "'Terminus (TTF)'",
+    "scm.inputFontFamily": "editor",
+    "scm.inputFontSize": 16,
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook"
+    },
+    "jupyter.askForKernelRestart": false,
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "explorer.confirmDelete": false,
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "git.enableSmartCommit": true
 }

@@ -1,3 +1,0 @@
-#!/bin/bash
-
-alacritty -e zsh -c 'cat ~/.cache/wal/sequences; autoload -U colors && colors; sudo pacman -Syu'

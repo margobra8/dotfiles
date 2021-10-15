@@ -1,12 +1,14 @@
-2021/04/06-13:41:14.554 4a4c Reusing MANIFEST /home/marcos/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/chrome-extension_iaiomicjabeggjcfkbimgmglanimpnae_0.indexeddb.leveldb/MANIFEST-000001
-2021/04/06-13:41:14.555 4a4c Recovering log #25
-2021/04/06-13:41:14.574 4a4c Reusing old log /home/marcos/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/chrome-extension_iaiomicjabeggjcfkbimgmglanimpnae_0.indexeddb.leveldb/000025.log 
-2021/04/06-14:26:23.450 32c16 Level-0 table #30: started
-2021/04/06-14:26:23.495 32c16 Level-0 table #30: 2624131 bytes OK
-2021/04/06-14:26:23.506 32c16 Delete type=0 #25
-2021/04/06-14:33:25.996 3d19d Compacting 1@1 + 1@2 files
-2021/04/06-14:33:26.056 3d19d Generated table #31@1: 3793 keys, 375289 bytes
-2021/04/06-14:33:26.056 3d19d Compacted 1@1 + 1@2 files => 375289 bytes
-2021/04/06-14:33:26.063 3d19d compacted to: files[ 0 0 1 0 0 0 0 ]
-2021/04/06-14:33:26.063 3d19d Delete type=2 #30
-2021/04/06-14:33:26.063 3d19d Delete type=2 #27
+2021/10/15-14:11:33.283 57e Reusing MANIFEST /home/marcos/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/chrome-extension_iaiomicjabeggjcfkbimgmglanimpnae_0.indexeddb.leveldb/MANIFEST-000001
+2021/10/15-14:11:33.283 57e Recovering log #342
+2021/10/15-14:11:33.284 57e Reusing old log /home/marcos/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/chrome-extension_iaiomicjabeggjcfkbimgmglanimpnae_0.indexeddb.leveldb/000342.log 
+2021/10/15-21:52:37.862 774a Level-0 table #348: started
+2021/10/15-21:52:37.908 774a Level-0 table #348: 1404798 bytes OK
+2021/10/15-21:52:37.920 774a Delete type=0 #342
+2021/10/15-21:53:01.678 774a Compacting 1@1 + 2@2 files
+2021/10/15-21:53:01.787 774a Generated table #349@1: 45731 keys, 2276730 bytes
+2021/10/15-21:53:01.797 774a Generated table #350@1: 4865 keys, 340214 bytes
+2021/10/15-21:53:01.797 774a Compacted 1@1 + 2@2 files => 2616944 bytes
+2021/10/15-21:53:01.804 774a compacted to: files[ 0 0 2 0 0 0 0 ]
+2021/10/15-21:53:01.804 774a Delete type=2 #348
+2021/10/15-21:53:01.804 774a Delete type=2 #344
+2021/10/15-21:53:01.804 774a Delete type=2 #345

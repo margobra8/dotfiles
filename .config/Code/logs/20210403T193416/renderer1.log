@@ -1,5 +1,0 @@
-[2021-04-03 19:41:40.599] [renderer1] [error] Cannot uninstall 'Monkey Patch' extension. 'Customize UI' extension depends on this.: Error: Cannot uninstall 'Monkey Patch' extension. 'Customize UI' extension depends on this.
-    at H.checkForDependents (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:47:222408)
-    at H.uninstallExtensions (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:47:222162)
-    at H.checkForDependenciesAndUninstall (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:47:221876)
-    at async H.uninstall (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:47:220137)

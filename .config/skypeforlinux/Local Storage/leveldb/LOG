@@ -1,6 +1,50 @@
-2021/04/06-16:24:39.397 4d2dd Reusing MANIFEST /home/marcos/.config/skypeforlinux/Local Storage/leveldb/MANIFEST-000001
-2021/04/06-16:24:39.397 4d2dd Recovering log #4
-2021/04/06-16:24:39.397 4d2dd Reusing old log /home/marcos/.config/skypeforlinux/Local Storage/leveldb/000004.log 
-2021/04/06-16:26:12.898 4d2dd Level-0 table #8: started
-2021/04/06-16:26:12.904 4d2dd Level-0 table #8: 64316 bytes OK
-2021/04/06-16:26:12.911 4d2dd Delete type=0 #4
+2021/10/14-17:04:38.425 1b0a3 Reusing MANIFEST /home/marcos/.config/skypeforlinux/Local Storage/leveldb/MANIFEST-000001
+2021/10/14-17:04:38.425 1b0a3 Recovering log #346
+2021/10/14-17:04:38.427 1b0a3 Level-0 table #350: started
+2021/10/14-17:04:38.435 1b0a3 Level-0 table #350: 86182 bytes OK
+2021/10/14-17:04:38.443 1b0a3 Delete type=0 #346
+2021/10/14-17:06:59.563 1b1b2 Level-0 table #353: started
+2021/10/14-17:06:59.598 1b1b2 Level-0 table #353: 75737 bytes OK
+2021/10/14-17:06:59.606 1b1b2 Delete type=0 #351
+2021/10/14-18:08:40.007 1c118 Level-0 table #355: started
+2021/10/14-18:08:40.040 1c118 Level-0 table #355: 86791 bytes OK
+2021/10/14-18:08:40.047 1c118 Delete type=0 #352
+2021/10/14-19:06:00.898 1ce1e Level-0 table #357: started
+2021/10/14-19:06:00.933 1ce1e Level-0 table #357: 86826 bytes OK
+2021/10/14-19:06:00.941 1ce1e Delete type=0 #354
+2021/10/14-19:06:00.942 1ce1e Compacting 4@0 + 1@1 files
+2021/10/14-19:06:00.952 1ce1e Generated table #358@0: 14 keys, 86283 bytes
+2021/10/14-19:06:00.952 1ce1e Compacted 4@0 + 1@1 files => 86283 bytes
+2021/10/14-19:06:00.959 1ce1e compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/10/14-19:06:00.960 1ce1e Delete type=2 #353
+2021/10/14-19:06:00.960 1ce1e Delete type=2 #348
+2021/10/14-19:06:00.960 1ce1e Delete type=2 #350
+2021/10/14-19:06:00.960 1ce1e Delete type=2 #355
+2021/10/14-19:06:00.960 1ce1e Delete type=2 #357
+2021/10/14-20:19:54.326 1e176 Level-0 table #360: started
+2021/10/14-20:19:54.360 1e176 Level-0 table #360: 91643 bytes OK
+2021/10/14-20:19:54.367 1e176 Delete type=0 #356
+2021/10/14-22:04:49.118 1f44d Level-0 table #362: started
+2021/10/14-22:04:49.152 1f44d Level-0 table #362: 86526 bytes OK
+2021/10/14-22:04:49.159 1f44d Delete type=0 #359
+2021/10/14-23:04:50.330 1ff53 Level-0 table #364: started
+2021/10/14-23:04:50.363 1ff53 Level-0 table #364: 85882 bytes OK
+2021/10/14-23:04:50.370 1ff53 Delete type=0 #361
+2021/10/15-00:04:51.566 20536 Level-0 table #366: started
+2021/10/15-00:04:51.600 20536 Level-0 table #366: 85796 bytes OK
+2021/10/15-00:04:51.607 20536 Delete type=0 #363
+2021/10/15-00:04:51.607 20536 Compacting 4@0 + 1@1 files
+2021/10/15-00:04:51.615 20536 Generated table #367@0: 14 keys, 86257 bytes
+2021/10/15-00:04:51.615 20536 Compacted 4@0 + 1@1 files => 86257 bytes
+2021/10/15-00:04:51.622 20536 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/10/15-00:04:51.622 20536 Delete type=2 #364
+2021/10/15-00:04:51.622 20536 Delete type=2 #358
+2021/10/15-00:04:51.622 20536 Delete type=2 #366
+2021/10/15-00:04:51.622 20536 Delete type=2 #360
+2021/10/15-00:04:51.622 20536 Delete type=2 #362
+2021/10/15-01:04:52.628 20f92 Level-0 table #369: started
+2021/10/15-01:04:52.636 20f92 Level-0 table #369: 85590 bytes OK
+2021/10/15-01:04:52.643 20f92 Delete type=0 #365
+2021/10/15-02:04:52.759 21829 Level-0 table #371: started
+2021/10/15-02:04:52.792 21829 Level-0 table #371: 85761 bytes OK
+2021/10/15-02:04:52.799 21829 Delete type=0 #368
